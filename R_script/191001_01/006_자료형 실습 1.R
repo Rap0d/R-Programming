@@ -34,3 +34,4 @@ result
 # mode와 class 함수
 mode(result)
 class(result)
+
