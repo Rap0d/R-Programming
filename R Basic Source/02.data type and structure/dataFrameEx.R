@@ -1,5 +1,5 @@
-
-setwd('R Basic Source/02.data type and structure/')
+getwd()
+setwd('../../R_data/')
 
 # 여러 개의 벡터를 이용하여 생성이 가능하다.
 no <- c(1, 2, 3)
