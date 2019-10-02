@@ -1,4 +1,4 @@
-abcCsv <- read.csv('abc.csv', header=T)
+abcCsv <- read.csv('R_data/191002_01/Border_Crossing_Entry_Data.csv', header=T)
 abcCsv
 dim(abcCsv) # dimension
 nrow(abcCsv) # 몇행인가요?
@@ -7,7 +7,7 @@ ncol(abcCsv) # 몇열인가요?
 # 샘플링 방법
 # nrow 함수는 전체 행의 갯수를 구해주는 함수이다.
 # 1행 ~전체 행수에서 임의의 4개의 데이터를 무작위로 추출한다.
-choice1 <- sample(1:nrow(abcCsv), 4)
+choice1 <- sample(1:nrow(abcCsv), 50)
 choice1
 # [1] 4 5 6 1
 
@@ -39,3 +39,4 @@ choice3
 choice3 <- sample(c(2:6), 2)
 choice3
 # [1] 2 6
+

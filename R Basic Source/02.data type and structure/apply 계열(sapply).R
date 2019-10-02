@@ -1,5 +1,10 @@
+
+# sapply() 함수는 행렬, 벡터 등의 데이터 타입으로 결과를 반환해주는 특징이 있는 함수이다.
+
+getwd()
+
 # jumsu.txt 파일을 읽어서 jumsu이라는 변수에 저장한다.
-jumsu <- read.table("jumsu.txt", header=TRUE)
+jumsu <- read.table("R_data/191002_01/jumsu.txt", header=TRUE)
 jumsu
 
 # jumsu데이터에서 학번열을 제거한다.
@@ -16,6 +21,9 @@ sapply(jumsu, sum, simplify = F)
 
 sapply(jumsu, sum, USE.NAMES = TRUE )
 sapply(jumsu, sum, USE.NAMES = FALSE ) 
+
+bardata = sapply(jumsu, sum)
+plot(bardata)
 
 # 각각의 열의 평균을 구한다.
 sapply(jumsu, mean)

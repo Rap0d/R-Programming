@@ -18,7 +18,13 @@ somedata
 # i  3  6
 # j  3  7
 # k  3  8
- 
+
+letters[1:5]
+LETTERS[1:5]
+
+dimnames(somedata)[[1]] = letters[1:11]
+somedata
+
 # 각 열(두 번째 매개 변수가 숫자 2이다.)에 대하여 평균 구하기
 apply(somedata, 2, mean)
 #      x1       x2 
