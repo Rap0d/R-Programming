@@ -1,3 +1,6 @@
+
+setwd('R Basic Source/02.data type and structure/')
+
 # 여러 개의 벡터를 이용하여 생성이 가능하다.
 no <- c(1, 2, 3)
 name <- c('hong', 'lee', 'kim')
@@ -14,6 +17,7 @@ class(emp01) # "data.frame"
 
 # 행렬을 이용한 생성
 # 행렬을 이용하여 DataFrame를 생성할 수 있다.
+# 벡터에는 하나만 문자여도 문자로 들어감. 
 m <- matrix(c(1, 'hong', 100, 2, 'kim', 200, 3, 'kang', 300), 3, byrow=T)
 
 mode(m) # "character"
