@@ -96,3 +96,5 @@ head(result_1, 20)
 
 result_2 <- ifelse((pq1 + pq2) >= 7, 'good', 'bad' )
 head(result_2)
+
+

@@ -79,7 +79,7 @@ empname
 switch(empname, hong=250, kim=500, choi=300, lee=100)
 
 getwd()
-setwd('Documents/Workspace/_3_rProgramming/R-Programming/R_data/')
+setwd('R_data/')
 
 excel <- read.csv('excel.csv')
 excel
@@ -91,8 +91,12 @@ pq1 <- excel$q1 ; pq2 <- excel$q2
 result <- ifelse(excel$q1 >= 2 & excel$q1 <= 4, excel$q1 ** 2,excel$q1)
 head(result, 20)
 
-result_1 <- ifelse(pq2 %% 2 == 0, 'even', 'odd')
-head(result_1, 20)
+excel$q2evod <- ifelse(pq2 %% 2 == 0, 'even', 'odd')
+head(excel$q2evod, 20)
 
-result_2 <- ifelse((pq1 + pq2) >= 7, 'good', 'bad' )
-head(result_2)
+excel$suum <- ifelse((pq1 + pq2) >= 7, 'good', 'bad' )
+head(excel$suum, 20)
+
+# 일치하는 데이터 찾기 함수 
+switch('name', id = 'hong', name = '홍길동', age = 15)
+switch('birth', id = 'hong', name = '홍길동', age = 15)
