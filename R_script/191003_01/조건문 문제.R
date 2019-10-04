@@ -62,7 +62,33 @@ while(T) {
 str(score)
 score
 
-# other 
+# other
+
+file = read.csv('jumsunew.csv')
+file
+
+file$mean = round(apply(file[3:5], 1, mean), 2)
+file
+
+file$result = ifelse(file$mean >= 60, 'pass', 'fail')
+file
+
+file$koreffort = ifelse(file$kor >= 50, 'good', 'bad')
+file$engeffort = ifelse(file$eng >= 50, 'good', 'bad')
+file$matheffort = ifelse(file$math >= 50, 'good', 'bad')
+file
+
+tmp = file[8:10]
+tmp
+file$count <- 0
+i = 1
+while(i <= nrow(file)) {
+  file[i,]$count = sum(tmp[i,] == 'good')
+  i = i + 1
+}
+result = file[(file$count >= 2),]
+result
+
 
 # 국어 점수가 가장 높은 순으로 정렬하시오.
 # 
