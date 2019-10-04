@@ -4,6 +4,7 @@ name <- c('강감찬', '김유신', '이순신', '신사임당', '최영')
 findname <- scan(what=character()) 
 findname
 
+# which : 찾고자 하는 인덱스
 result <- which( name == findname )
 result
 
@@ -28,6 +29,7 @@ myindex
 exam[myindex,]
 
 # 성적 >= 88인 학생들
+jumsu = 88
 jumsu = scan( ) # 88 입력
 jumsu
 
@@ -39,9 +41,11 @@ exam[myindex2,]
 # 80 <= 성적 <= 90인 학생들
 print('범위 입력')
 jumsu = scan( ) # 80과 90 입력
+jumsu = c(80, 90)
 jumsu
 jumsu[1]
 
 myindex3 <- which(exam$성적 >= jumsu[1] & exam$성적 <= jumsu[2])
 myindex3
 exam[myindex3,]
+

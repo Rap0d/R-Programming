@@ -11,6 +11,9 @@ help( sort )
 # sort() 함수는 원본 데이터를 변형하지 않는다.
 data
 
+data <- sort(data)
+data
+
 # help( order )
 # order() 함수 : 가장 값이 작은 데이터의 인덱스부터  출력해준다.
 ordering <- order(data)

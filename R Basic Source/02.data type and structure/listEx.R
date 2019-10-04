@@ -9,9 +9,18 @@ mylist
  
 # [[3]]
 # [1] 100
- 
+
+list1 <- list(c(1, 2), c('hello', 'world'), c(4:7))
+list1
+
+str(list1)
+
+list1[[1]]
+list1[[2]][1]
+list1[[3]][c(3:4)]
+
 # 벡터 구조로 변경하기
-myunlist <- unlist( mylist )
+myunlist <- unlist( list1 )
 myunlist 
 # [1] "lee"   "이순신" "100"   
 
@@ -46,6 +55,8 @@ member$name
 member$id <- 'lee'
 member$age
 # [1] 10
+
+member
 
 # 값을 제거하는 경우에는 NULL을 사용한다.
 member$age <- NULL

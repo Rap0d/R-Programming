@@ -69,7 +69,7 @@ weight <- data.frame(name=c('김유신', '이순신'), weight=c(80, 75))
 weight
 
 
-result <- merge(height, weight, by.x='name', by.y='name')
+result <- merge(height, weight, by.x='name', by.y='name')ㅍ
 result
 
 result <- merge(height, weight, all=T)

@@ -30,10 +30,13 @@ sort_result
 
 somedata = c(1, 2, 2, 3)
 
+# 동일한 값에 대해 평균을 내어 랭크를 매긴다. 
 rank( somedata )
 
+# ties.method : 동일한 값에 대한 랭크를 매기는 방법
+## min : 최소값을 기준으로 랭크를 준다. 
 rank( somedata, ties.method = 'min' )
-
+## random : 동알한 값을 랜덤으로 랭크를 매긴다. 
 rank( somedata, ties.method = 'random' )
 
 help(rank)
