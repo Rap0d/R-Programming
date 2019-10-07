@@ -21,7 +21,7 @@ result <- myfunc01( vec )
 result
 
 # -1 <= x < 3 까지 직선을 그려 보세요.
-x <- seq(-1, 3, by=0.1)
+x <- seq(-1, 3, by=0.001)
 y <- myfunc01( x )
 plot(x, y)
 
@@ -61,6 +61,8 @@ myfunc03 <- function( x ){
   result =  2 * x**2 - 3 * x + 1
   return ( result )
 }
-x <- seq(0, 1.5, by=0.05)
+x <- seq(0, 1.5, by=0.005)
 y <- myfunc03( x )
 plot(x, y)
+
+

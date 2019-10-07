@@ -89,3 +89,39 @@ transport <- c('버스', '지하철', '자동차')
 for( vehicle in transport ){
   print( vehicle )
 }
+
+# 1부터 입력 받은 정수 까지 더하기
+
+sc <- scan()
+
+x <- seq(1, sc, 1)
+res <- 0
+for(idx in x) {
+  res <- idx + res
+}
+res
+
+# 1 ~ 100까지 홀수의 총합, 짝수의 총합 
+
+x1 <- c(1:100)
+res1 <- 0
+res2 <- 0
+for(idx in x1) {
+  ifelse (idx %% 2 == 0, res2 <- idx + res2, res1 <- idx + res1)
+}
+res1
+res2
+
+x2 <- c(1:100)
+res3 <- 0
+res5 <- 0
+for(idx in x2) {
+  if (idx %% 3 == 0) {
+    res3 <- idx + res3
+  } else if (idx %% 5 == 0) {
+    res5 <- idx + res5
+  }
+}
+res3
+res5
+
