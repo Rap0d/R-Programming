@@ -13,7 +13,7 @@ mode(test01)
 # list로 가져옴 
 test02 <- str_extract_all(mystr, '[0-9]{2}')
 test02
-mode(test02)
+mode(test02) 
 unlist(test02)
 
 string <- 'hong1234kimu5678'
