@@ -162,7 +162,6 @@ dffruit
 
 string <- 'kim100usin/lee200sunsin'
 spl <- str_split(string, '/', simplify = T)
-v <- c()
 vFn <- c()
 vLn <- c()
 vAg <- c()
@@ -174,11 +173,7 @@ for(i in spl) {
   vLn <- c(vLn, lName)
   vAg <- c(vAg, as.numeric(age) + 50)
 }
-v <- c(vFn, vLn, vAg)
-v
-m <- matrix(v, nrow = 2, byrow = F)
-m
-df <- as.data.frame(m)
-df
-colnames(df) <- c('First Name', 'LastName', 'age')
-df
+v <- c(vFn, vLn, vAg); v
+m <- matrix(v, nrow = 2, byrow = F); m
+df <- as.data.frame(m); df
+colnames(df) <- c('First Name', 'LastName', 'age'); df
