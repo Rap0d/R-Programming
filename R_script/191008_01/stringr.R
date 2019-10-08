@@ -139,7 +139,7 @@ mydata
 vec <- c()
 setfruits <- c() # 집합
 for (one in mydata){
-  name <- str_extract(one, '[가-히]{1,}')
+  name <- str_extract(one, '[가-힣]{1,}')
   qty <- str_extract(one, '[0-9]{2}')
   print(name)
   print(qty)
@@ -147,8 +147,11 @@ for (one in mydata){
   vec <- c(vec, name, qty)
 }
 setfruits
+
+## fruits의 name을 하나만 설정 
 setfruits <- unique(setfruits)
 setfruits
+
 vec
 mat <- matrix(vec, ncol=2, byrow = T)
 mat
@@ -156,3 +159,29 @@ dffruit <- as.data.frame(mat)
 colnames(dffruit) <- c('과일', '수량')
 dffruit
 ###############################################################################
+
+string <- 'kim100usin/lee200sunsin'
+spl <- str_split(string, '/', simplify = T)
+v <- c()
+vFn <- c()
+vLn <- c()
+vAg <- c()
+for(i in spl) {
+  fName <- str_extract(i, '[A-z]{1,3}')
+  lName <- str_extract(i, '[A-z]{4,}')
+  age <- str_extract(i, '[0-9]{2,}')
+  vFn <- c(vFn, fName)
+  vLn <- c(vLn, lName)
+  vAg <- c(vAg, age)
+}
+v <- c(vFn, vLn, vAg)
+v
+m <- matrix(v, nrow = 2, byrow = F)
+m
+df <- as.data.frame(m)
+df
+colnames(df) <- c('First Name', 'LastName', 'age')
+df
+df$age
+sapply(df$age, as.numeric)
+df$age
