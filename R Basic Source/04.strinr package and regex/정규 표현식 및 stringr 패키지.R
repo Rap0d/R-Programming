@@ -20,7 +20,7 @@ str_extract_all(mystring3, '\\w{4,}')
 
 # 이메일
 email = 'abcd@naver.com;def@daum.net'
-regEx <- '\\w{4,}@\\w{3,}.\\w{2,}'
+regEx <- '[a-z]{1}\\w{3,}@\\w{3,}.\\w{2,}'
 str_extract_all(email, regEx)
 
   
@@ -28,9 +28,10 @@ str_extract_all(email, regEx)
 # 13자리를 만족해야하고, 하이폰은 옵션 사항이다.
 # 뒷 7자리의 처음에는 1,2,3,4 중 하나가 올 수 있다.
 juminno <- '700828-1234567 881225-345678 900815-9876543 7511112345678'
-regEx <- '\\d{6}-?[1234]\\d{6}'
+# 앞자리 숫자 + 6자리 // -는 옵션 // 숫자 1~4 // 뒷자리 숫자 7-1자리(6)
+regEx <- '\\d{6}-?[1-4]\\d{6}'
 str_extract_all(juminno, regEx)
-
+2
 
 beverage <- c('cola', 'fanta', 'Cola', 'sevenup', 'orange')
 beverage
