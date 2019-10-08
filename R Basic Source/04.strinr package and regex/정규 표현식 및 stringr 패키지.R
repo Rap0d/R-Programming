@@ -70,12 +70,12 @@ mycount
 dup01 <- str_dup( beverage, 2)
 dup01
 
-longchar <- str_dup('abcd', 1000)
+longchar <- str_dup('ab cd', 10)
 longchar
 
 # 공백만 트림해준다.
 # side 옵션의 기본 값은 both이다.
 # side = c("both", "left", "right")
 string8 <- '  cola  fanta   '
-trim01 <- str_trim(string8, side='left')
+trim01 <- str_trim(string8, side='both')
 trim01
