@@ -2,7 +2,6 @@
 library(stringr)
 
 mystr <- '홍길동&10&역삼동&hong@naver.com=박영희&20&공덕동&park@daum.net'
-delimiter <- '='
 
 # str_extract : 조건에 맞는 하나의 문자열 가져오기 
 # vector로 가져옴 
@@ -92,24 +91,32 @@ string_joun
 
 paste('hi', 'everyone', sep='/')
 
+############################################################################3
+
 mystr
-
-
-
-
+delimiter <- '='
 
 # simplify = TRUE 옵션은 벡터로 만들어 준다.
 mysplit <- str_split( mystr, delimiter, simplify = TRUE)
-
 mysplit
+
+# init vector
 vec <- c()
+
+for (one in mysplit){
+  print(one)
+}
+
 for ( one in mysplit ){
   delimiter <- '&'
   mydata <- str_split( one, delimiter, simplify = TRUE)
+  print(mydata)
+  print("=======================================================")
 
   delimiter <- '@'
   idemail <- str_split( mydata[4], delimiter, simplify = TRUE)
-  #print(idemail)
+  # print(idemail)
+  print("*******************************************************")
   vec <- c(vec, c( mydata[1], mydata[2], mydata[3], idemail[1], idemail[2]))
 }
 vec
