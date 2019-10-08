@@ -172,7 +172,7 @@ for(i in spl) {
   age <- str_extract(i, '[0-9]{2,}')
   vFn <- c(vFn, fName)
   vLn <- c(vLn, lName)
-  vAg <- c(vAg, age)
+  vAg <- c(vAg, as.numeric(age) + 50)
 }
 v <- c(vFn, vLn, vAg)
 v
@@ -182,6 +182,3 @@ df <- as.data.frame(m)
 df
 colnames(df) <- c('First Name', 'LastName', 'age')
 df
-df$age
-sapply(df$age, as.numeric)
-df$age
