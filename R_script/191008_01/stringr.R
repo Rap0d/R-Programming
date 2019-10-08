@@ -103,10 +103,7 @@ mysplit
 # init vector
 vec <- c()
 
-for (one in mysplit){
-  print(one)
-}
-
+# for문으로 요소마다 split
 for ( one in mysplit ){
   delimiter <- '&'
   mydata <- str_split( one, delimiter, simplify = TRUE)
@@ -121,13 +118,20 @@ for ( one in mysplit ){
 }
 vec
 
+# 행렬로 생성 
 mat <- matrix(vec, nrow=2, byrow = T)
 mat
 
+# 행렬을 데이터 프레임으로 바꾼 후 colnames 설정 
 df <- as.data.frame( mat )
 colnames(df) <- c('이름','나이','주소','아이디','메일주소')
+df$나이
 
+## 나이를 숫자로 변경 
+sapply(df$나이, as.numeric)
 df
+
+
 ###############################################################################
 mystr <- '사과10=배20=감15=사과30'
 mydata <- str_split( mystr, '=', simplify = TRUE)
