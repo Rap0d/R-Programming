@@ -41,5 +41,5 @@ ex3
 
 # 프로그램 판매 수량의 합과 ////////////////////////////비율을 구하세요.
 # 비율 : 판매수량/전체판매수량
-ex4 <- ddply(prog, .(name), transform, sumqty = sum(qty), percent = qty/sum(qty))
+ex4 <- ddply(prog, 'name', transform, sumqty = sum(qty), percent = qty/sum(qty) * 100)
 ex4
