@@ -1,3 +1,5 @@
+getwd()
+setwd('R Basic Source/07.data preprocessing/')
 # 단계. 데이터 셋 보기
 dataset = read.csv("dataset.csv", header=TRUE)   # 헤더가 있는 경우
 
