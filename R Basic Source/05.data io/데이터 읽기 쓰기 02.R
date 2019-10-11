@@ -1,5 +1,8 @@
+getwd()
+
 # header는 기본 값이 FALSE이지만 습관적으로 적어 주도록 하자
 # 파일에 header이 없는 경우
+# 구분자가 공백이거나 tab 인 경우 sep 속성을 생략할 수 있다. 
 member01 <- read.table(file='member01.txt', header=FALSE)
 member01
 

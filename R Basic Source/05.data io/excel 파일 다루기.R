@@ -1,7 +1,19 @@
 # readxl 패키지도 있음
 install.packages('xlsx')
 
-Sys.setenv(JAVA_HOME='C:/Program Files/Java/jre1.8.0_191')
+Sys.setenv("JAVA_HOME" = '/Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home')
+Sys.setenv("DYLD_FALLBACK_LIBRARY_PATH" = '/Library/Frameworks/R.framework/Resources/lib:/Users/seungheonchang/lib:/usr/local/lib:/usr/lib:::/lib:/Library/Java/JavaVirtualMachines/jdk-11.0.4.jdk/Contents/Home/lib/server')
+Sys.getenv()
+
+dyn.load('/Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/server/libjvm.dylib')
+
+require(rJava)
+
+.jinit()
+
+# /Library/Java/JavaVirtualMachines/jdk1.8.0-144.jdk/Contents/Home/jre/lib/server
+# DYLD_FALLBACK_LIBRARY_PATH       /Library/Frameworks/R.framework/Resources/lib:/Users/seungheonchang/lib:/usr/local/lib:/usr/lib:::/lib:/Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/server
+
 library(rJava)
 library(xlsx)
 
@@ -11,7 +23,8 @@ library(xlsx)
 myencoding = 'UTF-8'
 
 filename = 'R정형데이터처리하기.xlsx'
-
+getwd()
+setwd('R Basic Source/05.data io/')
 income <- read.xlsx(file=filename, sheetIndex = 1, encoding=myencoding)
 mode(income)
 class(income)
@@ -43,3 +56,4 @@ total_df
 income2 <- read.xlsx(file=filename, sheetIndex = 1, encoding=myencoding, 
                header=FALSE, rowIndex=c(2, 3), colIndex = c(1, 3:4))
 income2
+

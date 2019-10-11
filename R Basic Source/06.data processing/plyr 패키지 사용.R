@@ -94,14 +94,15 @@ result
 # ********************************************
 
  # ddply(data, 기준컬럼, 적용할함수)
+getwd()
+setwd('../06.data processing/')
 member06 <- read.csv('member06.txt', header=T)
 member06 
 
 tapply(member06$키, member06$성별, mean)
 
 # ddply(data, 기준컬럼, 적용할함수)
-result <- ddply(member06, .(성별), summarise, 
-		meanHeight=mean(키), sumWeight=sum(몸무게))
+result <- ddply(member06, .(성별), summarise, meanHeight=mean(키), sumWeight=sum(몸무게))
 result
 
 head(iris)
@@ -125,11 +126,10 @@ tapply(iris$Sepal.Width, iris$Species, sum)
 # ********************************************
  
 # 꽃의 종류별(Species)로 꽃받침 길이(Sepal.Length)의 평균 계산
+# var : 분산 
+# .() : 그룹핑할 컬럼 
 a = ddply(iris, .(Species), summarise, 
           avg = mean(Sepal.Length),
           tot = sum(Sepal.Length),
           var = var(Sepal.Length))
 a
-
-
-출처: http://dbrang.tistory.com/1045 [dBRang]

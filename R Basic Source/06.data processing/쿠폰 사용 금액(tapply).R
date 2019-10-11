@@ -1,3 +1,5 @@
+getwd()
+setwd('R Basic Source/06.data processing/')
 data <- read.csv('mydata.csv', header=TRUE)
 data
 
@@ -20,3 +22,16 @@ ta
 barplot(ta, col=rainbow(2), main='쿠폰 유형별 사용 금액', 
         xlab='쿠폰 유형', ylab='평균 사용 금액')
 # 파일 이름 : 쿠폰 유형별 평균 사용 금액.png
+
+
+unique(data$gender)
+
+data$gen2 <- factor(data$gender, levels = c('M', 'F'), labels = c('Male', 'Female'))
+data$gen2
+
+data$age
+
+tg <- tapply(data$age, data$gen2, mean)
+tg
+
+barplot(tg, col=rainbow(2), main = '성별 유형별 나이의 평균', xlab = '성별', ylab = '나이')
