@@ -10,3 +10,11 @@ board
 colnames(member)
 colnames(board)
 
+help(merge)
+
+result <- merge(member, board, by = '아이디')
+result
+
+result <- merge(member, board, by = '아이디', all = T)
+result
+
