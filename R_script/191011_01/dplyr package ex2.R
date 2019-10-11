@@ -135,5 +135,5 @@ mean_kor = round(mean(students$kor), 2)
 mean_kor
 
 # 반별로 국어 점수의 평균과 영어 점수의 총합 및 학생 수를 구해 보세요(힌트 : n() 함수)
-ex23 <- ex21 %>% group_by(ban) %>% summarise('국어 점수 평균' = mean(kor), '영어 점수 총합' = sum(eng), '학생 수' = n())
+ex23 <- ex21 %>% group_by(ban) %>% summarise(국어점수평균 = mean(kor), 영어점수총합 = sum(eng), 학생수 = n())
 ex23
