@@ -42,11 +42,14 @@ res
 
 # 앞서 구한 result 변수와 ddply 함수를 이용하여 newdata 변수를 만드세요.
 # newdata 변수에는 회원 이름별로 조회수의 평균과 적립 포인트의 토탈 금액을 구하시오.
+newdata <- ddply(res, .(이름), summarise, 조회수평균 = mean(조회수, na.rm = T), 적립포인트총합 = sum(적립포인트, na.rm = T))
+newdata
+
 # newdata 변수를 이용하여 가로 막대 그래프를 그리시오.
 # 단, 조회수의 평균은 수치 100*을 곱하여 그리도록 한다.
 # 
-newdata <- ddply(res, .(이름), summarise, 조회수평균 = mean(조회수, na.rm = T), 적립포인트총합 = sum(적립포인트, na.rm = T))
-newdata
+library(ggplot2)
+barplot(newdata$조회수평균 * 100, horiz = T)
 
 # 일련 번호가 1이거나 3인 데이터만 조회하되, 이름 급여 작성 일자만 조회하시오.
 # 단, 일련 번호의 역순으로 조회하시오.
