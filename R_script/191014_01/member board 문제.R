@@ -45,7 +45,11 @@ res
 # newdata 변수를 이용하여 가로 막대 그래프를 그리시오.
 # 단, 조회수의 평균은 수치 100*을 곱하여 그리도록 한다.
 # 
-newdata <- ddply()
+newdata <- ddply(res, .(이름), summarise, 조회수평균 = mean(조회수, na.rm = T), 적립포인트총합 = sum(적립포인트, na.rm = T))
+newdata
 
 # 일련 번호가 1이거나 3인 데이터만 조회하되, 이름 급여 작성 일자만 조회하시오.
 # 단, 일련 번호의 역순으로 조회하시오.
+res
+filter(res, 일련번호 %in% c(1, 3)) %>% arrange(desc(일련번호)) %>% select(이름, 급여, 작성일자)
+
