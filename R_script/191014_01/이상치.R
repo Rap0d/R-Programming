@@ -43,3 +43,24 @@ outlier %>% filter(!is.na(gender) & !is.na(score)) %>% group_by(gender) %>% summ
 # boxplot : 데이터의 분포를 볼 수 있음
 boxplot(score)
 
+## ggplot2 에서 제공하는 데이터 셋을 이용한 이상치 확인
+library(ggplot2)
+
+str(mpg)
+range(mpg$hwy)
+sort(unique(mpg$hwy))
+
+mybox <- boxplot(mpg$hwy)
+attributes(mybox)
+
+# stats : Dataframe의 통계 정보를 알려준다. 
+mybox$stats
+
+sort(mpg$hwy)
+mpg$hwy <- ifelse(mpg$hwy < 12 | mpg$hwy > 37, NA, mpg$hwy)
+
+table(is.na(mpg$hwy))
+
+# drv : 자동차 구동 방식
+res <- mpg %>%  group_by(drv) %>% summarise(mean_hwy = mean(hwy, na.rm = T))
+res                                            
