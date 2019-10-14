@@ -18,7 +18,6 @@ unlist(m)
 # '-- 수입원' '-- 수입원' '-- 수입원' 
 
 m <- c()
-for(i in data) {
   m <- c(m, str_replace_all(i, '\\d{2}', ''))
 }
 unlist(m)
