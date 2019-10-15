@@ -2,7 +2,7 @@ library(reshape2)
 
 par(family = 'D2Coding')
 
-mydata <- read.csv('student_subject_score.csv', header = T)
+mydata <- read.csv('../R-Programming/R_data/191015/student_subject_score.csv', header = T)
 mydata
 colnames(mydata)
 
