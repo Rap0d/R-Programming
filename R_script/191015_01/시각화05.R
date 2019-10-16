@@ -29,7 +29,7 @@ range(food)
 plot(tranf, type = 'o', xlab = '사원명', ylab = '비용', col = 'magenta', ylim = c(50000, 200000))
 par(new = T)
 plot(food, type = 'o', ylab = "", xlab = "", ylim = c(50000, 200000), col = 'cyan')
-legend(x = 16, y = 0.5, c('교통비', '식비'), cex = 0.7, col = c('magenta', 'cyan'))
+legend(x = 8, y = 15000, c('교통비', '식비'), cex = 0.7, col = c('magenta', 'cyan'))
 
 # 가전제품1 시트
 # 1일 생산량을 이용하여 세로 막대 그래프 그리기
@@ -104,3 +104,24 @@ plot(avg4, type = 'o', ylim = c(8000, 10000), axes = F)
 axis(1, at=1:4, labels = c("1사분기", '2사분기', '3사분기', '4사분기'))
 axis(2, ylim = c(8000, 10000))
 
+# boxplot 그리기
+boxplot(chart1)
+
+# 총생산량, 불량품, 출고량 boxplot
+q_df
+q_df$출고량 <- gsub(',','', q_df$출고량)
+q_df
+
+tot_prod <- q_df$총생산량
+bad_prod <- q_df$불량품 * 100
+go_prod <- as.numeric(q_df$출고량)
+
+tot_prod
+bad_prod
+go_prod
+
+mprod <- data.frame(tot = tot_prod, bad = bad_prod, go = go_prod)
+mprod
+mprod <- as.matrix(mprod)
+
+boxplot(mprod)
