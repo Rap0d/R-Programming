@@ -6,6 +6,7 @@ library(stringr)
 library(dplyr)
 library(reshape2)
 library(devtools)
+devtools::install_github("lchiffon/wordcloud2")
 library(wordcloud2)
 
 library(htmltools)
@@ -184,5 +185,5 @@ datalen <- 500
 res7 <- head(res7, datalen)
 res7
 
-wordcloud2(res7, size = 1, fontFamily = "D2Coding", color = "random-dark", shape = 'rectangle', shuffle = F, rotateRatio = 0.5, maxRotation = pi/4)
+wordcloud2(res7, size = 1, fontFamily = "D2Coding", color = "random-dark", shape = 'rectangle', shuffle = F, rotateRatio = 0.5, maxRotation = pi/4,figPath = '../../R_data/191017/alice.png')
 
