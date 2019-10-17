@@ -5,7 +5,13 @@ library(jsonlite)
 library(stringr)
 library(dplyr)
 library(reshape2)
+library(devtools)
 library(wordcloud2)
+
+library(htmltools)
+library(yaml)
+library(base64enc)
+library(htmlwidgets)
 
 par(family = 'D2Coding')
 
