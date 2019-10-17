@@ -180,8 +180,9 @@ length(nounData)
 nounData
 
 res7 <- sort(table(nounData), decreasing = T)
-datalen <- 50
+datalen <- 500
 res7 <- head(res7, datalen)
 res7
 
-wordcloud2(res7, size = 0.5, fontFamily = "D2Coding", color = "random-dark", shape = 'rectangle', shuffle = F, rotateRatio = 0.5, maxRotation = pi/4)
+wordcloud2(res7, size = 1, fontFamily = "D2Coding", color = "random-dark", shape = 'rectangle', shuffle = F, rotateRatio = 0.5, maxRotation = pi/4)
+
