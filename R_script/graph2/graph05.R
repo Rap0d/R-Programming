@@ -1,5 +1,5 @@
 getwd()
-setwd('../seoul_hospital/')
+setwd('../R-Programming/R_data/191016/seoul_hospital/')
 
 par(family = 'D2Coding')
 par(cex = 0.7)
@@ -71,5 +71,8 @@ legend('topright', colnames(data4), cex = 1, col = mcolor2, bg = 'white', lty = 
 par(new = F)
 
 # hospital01.png
+
+data4
+
 barplot(as.matrix(data4), beside = T, legend = mcolnames, col = getColor(data4), ylim = c(0, 350))
 
