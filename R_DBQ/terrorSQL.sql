@@ -1,6 +1,6 @@
 -- 국가별 테러 수 집계
 select country_txt, count(*) as cnt 
-from terrortable
+from myterror
 group by country_txt
 order by cnt desc ;
 
@@ -9,7 +9,7 @@ order by cnt desc ;
 create table country_summary
 as
 select country_txt, count(*) as cnt 
-from terrortable
+from myterror
 group by country_txt
 order by cnt desc ;
 
@@ -37,7 +37,7 @@ select * from country_summary_top_10  ;
 
 -- 년도별 국가 집계
 select country_txt, iyear, count(*) as cnt 
-from terrortable
+from myterror
 group by country_txt, iyear
 order by cnt desc, iyear asc ;
 
@@ -50,7 +50,7 @@ grant create view to scott ;
 create or replace view three_country
 as
 select country_txt, iyear, count(*) as cnt 
-from terrortable
+from myterror
 where country_txt in('Iraq', 'Pakistan', 'Afghanistan')
 group by country_txt, iyear
 order by country_txt desc, iyear asc ;
@@ -60,14 +60,14 @@ select * from three_country ;
 
 -- 년도/월별 국가 집계
 select country_txt, iyear, imonth, count(*) as cnt
-from terrortable
+from myterror
 group by country_txt, iyear, imonth
 order by country_txt desc, iyear asc, imonth asc ;
 
 
 -- 월별 국가 집계
 select country_txt, imonth, count(*) as cnt
-from terrortable
+from myterror
 group by country_txt, imonth
 order by country_txt desc, imonth asc ;
 
@@ -90,7 +90,7 @@ case imonth
 	when 11 then '사사분기'
 	when 12 then '사사분기'
 end as result
-from terrortable ;
+from myterror ;
 
 -- 국가별, 분기별 집계
 select country_txt, result, count(*) as cnt

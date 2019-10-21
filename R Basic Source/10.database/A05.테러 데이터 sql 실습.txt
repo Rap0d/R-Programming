@@ -1,12 +1,12 @@
--- Å×ÀÌºí ÀÌ¸§ : terrortable
+-- í…Œì´ë¸” ì´ë¦„ : terrortable
 
--- ±¹°¡º° Å×·¯ ¼ö Áı°è
+-- êµ­ê°€ë³„ í…ŒëŸ¬ ìˆ˜ ì§‘ê³„
 select country_txt, count(*) as cnt 
 from terrortable
 group by country_txt
 order by cnt desc ;
 
--- ÀÓ½Ã Å×ÀÌºí »ı¼º(CTAS ¹®¹ı)
+-- ì„ì‹œ í…Œì´ë¸” ìƒì„±(CTAS ë¬¸ë²•)
 -- drop table country_summary ;
 create table country_summary
 as
@@ -17,11 +17,11 @@ order by cnt desc ;
 
 select * from country_summary ;
 
--- ·©Å· ÄÃ·³ ¸¸µé±â
+-- ë­í‚¹ ì»¬ëŸ¼ ë§Œë“¤ê¸°
 select country_txt, cnt, rank() over ( order by cnt desc ) as ranking
 from country_summary ;
 
--- »óÀ§ 10°³¸¸ Ãß·Á ³»±â
+-- ìƒìœ„ 10ê°œë§Œ ì¶”ë ¤ ë‚´ê¸°
 -- drop table country_summary_top_10
 create table country_summary_top_10
 as 
@@ -32,20 +32,20 @@ from (
 	)
 where ranking <= 10 ;
 
--- »óÀ§ 10°³ ±¹°¡
+-- ìƒìœ„ 10ê°œ êµ­ê°€
 select * from country_summary_top_10  ;
 
--- ³âµµº° ±¹°¡ Áı°è
+-- ë…„ë„ë³„ êµ­ê°€ ì§‘ê³„
 select country_txt, iyear, count(*) as cnt 
 from terrortable
 group by country_txt, iyear
 order by cnt desc, iyear asc ;
 
--- °ü¸®ÀÚ°¡ ºä »ı¼º ±ÇÇÑ ºÎ¿©
+-- ê´€ë¦¬ìê°€ ë·° ìƒì„± ê¶Œí•œ ë¶€ì—¬
 grant create view to scott ;
 
--- 3°³±¹(Iraq, Pakistan, Afghanistan) ³âµµº° ±¹°¡ Áı°è
--- ºä three_conunty¸¦ ÀÛ¼ºÇÏ½Ã¿À.
+-- 3ê°œêµ­(Iraq, Pakistan, Afghanistan) ë…„ë„ë³„ êµ­ê°€ ì§‘ê³„
+-- ë·° three_conuntyë¥¼ ì‘ì„±í•˜ì‹œì˜¤.
 create or replace view three_conunty
 as
 select country_txt, iyear, count(*) as cnt 
@@ -54,50 +54,50 @@ where country_txt in('Iraq', 'Pakistan', 'Afghanistan')
 group by country_txt, iyear
 order by country_txt desc, iyear asc ;
 
--- ºä Á¶È¸
+-- ë·° ì¡°íšŒ
 select * from three_conunty ;
 
--- ³âµµ/¿ùº° ±¹°¡ Áı°è
+-- ë…„ë„/ì›”ë³„ êµ­ê°€ ì§‘ê³„
 select country_txt, iyear, imonth, count(*) as cnt
 from terrortable
 group by country_txt, iyear, imonth
 order by country_txt desc, iyear asc, imonth asc ;
 
 
--- ¿ùº° ±¹°¡ Áı°è
+-- ì›”ë³„ êµ­ê°€ ì§‘ê³„
 select country_txt, imonth, count(*) as cnt
 from terrortable
 group by country_txt, imonth
 order by country_txt desc, imonth asc ;
 
--- ºĞ±âº° ±¹°¡ Áı°è
+-- ë¶„ê¸°ë³„ êµ­ê°€ ì§‘ê³„
 drop table bungi ;
 create table bungi
 as
 select country_txt, 
 case imonth 
-	when 1 then 'ÀÏ»çºĞ±â'
-	when 2 then 'ÀÏ»çºĞ±â'
-	when 3 then 'ÀÏ»çºĞ±â'
-	when 4 then 'ÀÌ»çºĞ±â'
-	when 5 then 'ÀÌ»çºĞ±â'
-	when 6 then 'ÀÌ»çºĞ±â'
-	when 7 then '»ï»çºĞ±â'
-	when 8 then '»ï»çºĞ±â'
-	when 9 then '»ï»çºĞ±â'
-	when 10 then '»ç»çºĞ±â'
-	when 11 then '»ç»çºĞ±â'
-	when 12 then '»ç»çºĞ±â'
+	when 1 then 'ì¼ì‚¬ë¶„ê¸°'
+	when 2 then 'ì¼ì‚¬ë¶„ê¸°'
+	when 3 then 'ì¼ì‚¬ë¶„ê¸°'
+	when 4 then 'ì´ì‚¬ë¶„ê¸°'
+	when 5 then 'ì´ì‚¬ë¶„ê¸°'
+	when 6 then 'ì´ì‚¬ë¶„ê¸°'
+	when 7 then 'ì‚¼ì‚¬ë¶„ê¸°'
+	when 8 then 'ì‚¼ì‚¬ë¶„ê¸°'
+	when 9 then 'ì‚¼ì‚¬ë¶„ê¸°'
+	when 10 then 'ì‚¬ì‚¬ë¶„ê¸°'
+	when 11 then 'ì‚¬ì‚¬ë¶„ê¸°'
+	when 12 then 'ì‚¬ì‚¬ë¶„ê¸°'
 end as result
 from terrortable ;
 
--- ±¹°¡º°, ºĞ±âº° Áı°è
+-- êµ­ê°€ë³„, ë¶„ê¸°ë³„ ì§‘ê³„
 select country_txt, result, count(*) as cnt
 from bungi
 group by country_txt, result
 order by cnt desc ;
 
--- ¾ÆÇÁÄ«´Ï½ºÅº°ú ¾ËÁ¦¸®¸¸ º¸°Ú´Ù
+-- ì•„í”„ì¹´ë‹ˆìŠ¤íƒ„ê³¼ ì•Œì œë¦¬ë§Œ ë³´ê² ë‹¤
 select country_txt, result, count(*) as cnt
 from bungi
 where country_txt in('Algeria', 'Afghanistan')
@@ -107,9 +107,9 @@ order by country_txt, result ;
 select country_txt, result
 from bungi
 where country_txt = 'Afghanistan'
-and result = 'ÀÏ»çºĞ±â' ;
+and result = 'ì¼ì‚¬ë¶„ê¸°' ;
 
--- ±¹°¡ »ó°ü ¾øÀÌ ºĞ±âº° Áı°è
+-- êµ­ê°€ ìƒê´€ ì—†ì´ ë¶„ê¸°ë³„ ì§‘ê³„
 create or replace view bungiview
 as 
 select result, count(*) as cnt
@@ -117,5 +117,5 @@ from bungi
 group by result
 order by cnt desc ;
 
--- ºĞ±â ºä Á¶È¸
+-- ë¶„ê¸° ë·° ì¡°íšŒ
 select * from bungiview ;
