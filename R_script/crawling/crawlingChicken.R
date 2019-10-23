@@ -43,4 +43,4 @@ addr_count
 arrange(addr_count, desc(매장수)) %>% head()
 
 mTitle <- paste(loc, ' 동별 치킨집 분포', sep = '')
-treemap(addr_count, index = '동', vSize = '매장수', title = mTitle, fontfamily = 'D2Coding')
+treemap(addr_count, index = '동', vSize = '매장수', title = mTitle, fontfamily.title = 'D2Coding', fontfamily.labels = 'D2Coding')
