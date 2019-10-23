@@ -1,0 +1,758 @@
+text,favorited,favoriteCount,replyToSN,created,truncated,replyToSID,id,replyToUID,statusSource,screenName,retweetCount,isRetweet,retweeted,longitude,latitude
+RT @OhMyJIHOGI: 양산 삽량 빛 문화 축전
+191011 오마이걸 유아8 비니5
+
+#오마이걸 #유시아 #배유빈 https://t.co/FdEsu1aS41,FALSE,0,NA,2019-10-22 06:37:15,FALSE,NA,1186531946697904129,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,18_01_23,27,TRUE,FALSE,NA,NA
+RT @god_glasses_: 18. 오마이걸 유아 https://t.co/UbG4Gz13ix,FALSE,0,NA,2019-10-22 06:36:46,FALSE,NA,1186531824589107200,NA,<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>,P__parasol_,45,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 06:30:24,FALSE,NA,1186530223321485313,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,flowerstoarin,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 06:24:56,FALSE,NA,1186528846247419904,NA,<a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>,8__wild_sea,56,TRUE,FALSE,NA,NA
+RT @fanandjj: 70. 오마이걸 유아 https://t.co/mcKJHyxAr2,FALSE,0,NA,2019-10-22 06:22:01,FALSE,NA,1186528113921970176,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,_daytime,2053,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 191022 Cold War(콜드워) 오마이걸
+https://t.co/5V2dESPbNm
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린,FALSE,0,NA,2019-10-22 06:21:39,FALSE,NA,1186528021601144833,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,Jungukyamotz_sy,23,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 06:13:40,FALSE,NA,1186526013510938624,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,wataKPOP,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 06:12:40,FALSE,NA,1186525760065953792,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,ying24779,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 06:05:06,FALSE,NA,1186523857865211904,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,ARIN99SF,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 06:03:06,FALSE,NA,1186523352766136320,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,omg_mimon51,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 06:02:57,FALSE,NA,1186523313754931200,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,terkomg,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 06:01:41,FALSE,NA,1186522995050733569,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,ganadaca,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 191022 Cold War(콜드워) 오마이걸
+https://t.co/5V2dESPbNm
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린,FALSE,0,NA,2019-10-22 06:01:14,FALSE,NA,1186522881871581184,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,ganadaca,23,TRUE,FALSE,NA,NA
+RT @h0VL0hMNzFImt08: 오마이걸 유아 ㅠㅠ 물만두... 댓자나여... https://t.co/Zev7OmIaYc,FALSE,0,NA,2019-10-22 05:57:47,FALSE,NA,1186522014091055104,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,sweetteenn123,307,TRUE,FALSE,NA,NA
+RT @cyphaz__: new 를 했어야 하는구나 진짜 찐으로 제대로 캡쳐해왔음 얘드라 기억해 이 오지는 왁킹의 주인공은 오마이걸 유아야 https://t.co/bx3wSwX1yS,FALSE,0,NA,2019-10-22 05:57:35,FALSE,NA,1186521962941538304,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,sweetteenn123,37,TRUE,FALSE,NA,NA
+@82zipgagosipda 혹시 오마이걸 유아?!맞나용?,FALSE,1,82zipgagosipda,2019-10-22 05:56:53,FALSE,1186520270695067649,1186521787045011457,1036270126188773376,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,Rockfish0A0,0,FALSE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-22 05:56:37,FALSE,NA,1186521721290969089,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,sweetteenn123,520,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 05:51:59,FALSE,NA,1186520556369145856,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,jihography,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 05:47:13,FALSE,NA,1186519357649633281,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,qxbw_k,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 05:46:51,FALSE,NA,1186519263898521600,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,DalbetoAmar,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 191022 Cold War(콜드워) 오마이걸
+https://t.co/5V2dESPbNm
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린,FALSE,0,NA,2019-10-22 05:46:16,FALSE,NA,1186519117697671168,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,cherryyooa,23,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 05:43:59,FALSE,NA,1186518540309819392,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,iamBANA,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 05:37:10,FALSE,NA,1186516826198429697,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,vo__o_x,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 05:35:44,FALSE,NA,1186516465005944838,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,remainasitwas,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 05:34:37,FALSE,NA,1186516186210754561,NA,<a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>,imisscnu,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 191022 Cold War(콜드워) 오마이걸
+https://t.co/5V2dESPbNm
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린,FALSE,0,NA,2019-10-22 05:34:29,FALSE,NA,1186516152836657153,NA,<a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>,imisscnu,23,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 05:34:27,FALSE,NA,1186516142107398147,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,Ohmyhehe,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 05:32:27,FALSE,NA,1186515637675417600,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,minimoonraccoon,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 05:31:57,FALSE,NA,1186515512714334208,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,OMG8JIHO,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 05:30:00,FALSE,NA,1186515020907069440,NA,<a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>,papiyounk,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 05:29:59,FALSE,NA,1186515016691933189,NA,<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>,huanj23,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 191022 Cold War(콜드워) 오마이걸
+https://t.co/5V2dESPbNm
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린,FALSE,0,NA,2019-10-22 05:29:54,FALSE,NA,1186514997259755527,NA,<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>,huanj23,23,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 05:28:06,FALSE,NA,1186514544337620992,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,nadheevah,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 05:27:39,FALSE,NA,1186514429933809664,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,baguttspark,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 05:24:59,FALSE,NA,1186513760355270656,NA,<a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>,bjenniep,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 191022 Cold War(콜드워) 오마이걸
+https://t.co/5V2dESPbNm
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린,FALSE,0,NA,2019-10-22 05:24:57,FALSE,NA,1186513750313992193,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,natalie88m,23,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 191022 Cold War(콜드워) 오마이걸
+https://t.co/5V2dESPbNm
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린,FALSE,0,NA,2019-10-22 05:24:54,FALSE,NA,1186513739136282624,NA,<a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>,bjenniep,23,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 05:23:20,FALSE,NA,1186513344821223426,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,gain12341,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 05:21:47,FALSE,NA,1186512953945669632,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,kimcherryon,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 05:20:23,FALSE,NA,1186512602286850048,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,Ohmygirl2015,56,TRUE,FALSE,NA,NA
+RT @h0VL0hMNzFImt08: 오마이걸 유아 보름달 https://t.co/nUkzeJ8MvK,FALSE,0,NA,2019-10-22 05:17:49,FALSE,NA,1186511957567762437,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,Hye__Ryu_C,88,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 05:16:45,FALSE,NA,1186511687106478080,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,ponwoo_k,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 05:16:27,FALSE,NA,1186511612150046721,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,sceunghee,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 05:13:49,FALSE,NA,1186510951216041984,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,44KJH,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 05:11:43,FALSE,NA,1186510419835441154,NA,<a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>,cherrykeurie,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 191022 Cold War(콜드워) 오마이걸
+https://t.co/5V2dESPbNm
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린,FALSE,0,NA,2019-10-22 05:11:22,FALSE,NA,1186510333038465024,NA,<a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>,cherrykeurie,23,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 191022 Cold War(콜드워) 오마이걸
+https://t.co/5V2dESPbNm
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린,FALSE,0,NA,2019-10-22 05:08:06,FALSE,NA,1186509510468227072,NA,<a href="http://www.echofon.com/" rel="nofollow">Echofon</a>,shan787878,23,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 05:05:43,FALSE,NA,1186508913123790848,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,minchzh_97,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 05:03:37,FALSE,NA,1186508384000004096,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,geizz_,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 191022 Cold War(콜드워) 오마이걸
+https://t.co/5V2dESPbNm
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린,FALSE,0,NA,2019-10-22 04:59:18,FALSE,NA,1186507298249699328,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,cherryoo_a,23,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 04:59:15,FALSE,NA,1186507284483952640,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,cherryoo_a,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 04:59:08,FALSE,NA,1186507255857836033,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,dnp_mrc,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 04:58:44,FALSE,NA,1186507154120818688,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,kkrkwbm,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 191022 Cold War(콜드워) 오마이걸
+https://t.co/5V2dESPbNm
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린,FALSE,0,NA,2019-10-22 04:55:49,FALSE,NA,1186506418792189952,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,podomoochim,23,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 191022 Cold War(콜드워) 오마이걸
+https://t.co/5V2dESPbNm
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린,FALSE,0,NA,2019-10-22 04:54:04,FALSE,NA,1186505978990100480,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,pla_chic,23,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 04:54:02,FALSE,NA,1186505970182045697,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,pla_chic,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 04:54:01,FALSE,NA,1186505969368363009,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,blitz_zidan,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 04:52:25,FALSE,NA,1186505564165029888,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,little_starglow,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 04:52:11,FALSE,NA,1186505505579008001,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,cerispy,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 191022 Cold War(콜드워) 오마이걸
+https://t.co/5V2dESPbNm
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린,FALSE,0,NA,2019-10-22 04:52:02,FALSE,NA,1186505467062652928,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,cerispy,23,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 04:51:19,FALSE,NA,1186505289266122752,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,holicxjiho,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 04:51:16,FALSE,NA,1186505276452507648,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,omg_mandoo,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 191022 Cold War(콜드워) 오마이걸
+https://t.co/5V2dESPbNm
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린,FALSE,0,NA,2019-10-22 04:49:42,FALSE,NA,1186504881646891008,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,seulidogi,23,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 04:49:39,FALSE,NA,1186504866409041920,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,seulidogi,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 04:48:54,FALSE,NA,1186504678873260032,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,riichaaagha,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 191022 Cold War(콜드워) 오마이걸
+https://t.co/5V2dESPbNm
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린,FALSE,0,NA,2019-10-22 04:48:43,FALSE,NA,1186504635181223936,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,riichaaagha,23,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 04:47:24,FALSE,NA,1186504300953915392,NA,<a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>,Sweetpea_namwa,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 04:45:22,FALSE,NA,1186503791568244737,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,hyforreal,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 191022 Cold War(콜드워) 오마이걸
+https://t.co/5V2dESPbNm
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린,FALSE,0,NA,2019-10-22 04:44:27,FALSE,NA,1186503558633361408,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,jwbaek03,23,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 191022 Cold War(콜드워) 오마이걸
+https://t.co/5V2dESPbNm
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린,FALSE,0,NA,2019-10-22 04:43:14,FALSE,NA,1186503254101745664,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,wmiracel,23,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 04:43:03,FALSE,NA,1186503207234588672,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,wmiracel,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 191022 Cold War(콜드워) 오마이걸
+https://t.co/5V2dESPbNm
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린,FALSE,0,NA,2019-10-22 04:41:37,FALSE,NA,1186502847145238533,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,ZieL_Baramji,23,TRUE,FALSE,NA,NA
+RT @yooamyangelcom: [오마이걸]에게 “가을동화” 초대장이 도착하였습니다. (출처 : WM엔터테인먼트 | 네이버 포스트) https://t.co/guJ9EUbtpq
+
+#오마이걸 #OHMYGIRL #OMG #가을동화 #불꽃놀이 #효정 #…,FALSE,0,NA,2019-10-22 04:41:13,FALSE,NA,1186502747803156486,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,hannam_jaegi69,172,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 04:38:06,FALSE,NA,1186501961983516672,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,everyday_arin,56,TRUE,FALSE,NA,NA
+191022 Cold War(콜드워) 오마이걸
+https://t.co/5V2dESPbNm
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린,FALSE,29,NA,2019-10-22 04:38:02,FALSE,NA,1186501945533452288,NA,<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>,OHMYGIRL_ML,23,FALSE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 04:37:40,FALSE,NA,1186501854210867200,NA,<a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>,mgt_omg,56,TRUE,FALSE,NA,NA
+RT @OHMYGIRL_ML: 콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,0,NA,2019-10-22 04:37:36,FALSE,NA,1186501833939775489,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,arin_arinzz,56,TRUE,FALSE,NA,NA
+콜드워 광고 모델 오마이걸
+#오마이걸 #OHMYGIRL #OMG #OMGFAN #효정 #미미 #유아 #승희 #지호 #비니 #아린 https://t.co/27tH5N3gbD,FALSE,70,NA,2019-10-22 04:35:44,FALSE,NA,1186501366849536001,NA,<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>,OHMYGIRL_ML,56,FALSE,FALSE,NA,NA
+RT @fanandjj: 70. 오마이걸 유아 https://t.co/mcKJHyxAr2,FALSE,0,NA,2019-10-22 04:14:21,FALSE,NA,1186495982906703872,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,skcjucivl,2053,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/VoEfLnUMfq,FALSE,0,NA,2019-10-22 04:04:51,FALSE,NA,1186493593915052032,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,yang_miinah,41,TRUE,FALSE,NA,NA
+WM_OHMYGIRL 효정 진이 유아 미미 승희 비니 지호 아린 오마이걸♡,FALSE,0,NA,2019-10-22 03:55:24,FALSE,NA,1186491216797396992,NA,<a href="http://twittbot.net/" rel="nofollow">twittbot.net</a>,mimimanju_jh,0,FALSE,FALSE,NA,NA
+RT @h0VL0hMNzFImt08: 오마이걸 유아 ㅠㅠ 물만두... 댓자나여... https://t.co/Zev7OmIaYc,FALSE,0,NA,2019-10-22 03:07:53,FALSE,NA,1186479257435852802,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,ssipdeokh00,307,TRUE,FALSE,NA,NA
+RT @cyphaz__: new 를 했어야 하는구나 진짜 찐으로 제대로 캡쳐해왔음 얘드라 기억해 이 오지는 왁킹의 주인공은 오마이걸 유아야 https://t.co/bx3wSwX1yS,FALSE,0,NA,2019-10-22 03:07:44,FALSE,NA,1186479219770982400,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,ssipdeokh00,37,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-22 03:06:22,FALSE,NA,1186478874944655360,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,ssipdeokh00,520,TRUE,FALSE,NA,NA
+2. 오마이걸
+
+비밀정원 활동 때 봤는데 다들 춤 잘 추고 이뻤음 다 얼굴 작았는데 그중에사 유아가 특히 작았음,FALSE,1,lem0nmilk24,2019-10-22 02:39:37,FALSE,1186471825162690560,1186472143107682305,1170286091179479041,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,lem0nmilk24,0,FALSE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-22 02:32:46,FALSE,NA,1186470422365130752,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,whenever_August,520,TRUE,FALSE,NA,NA
+RT @love_for_rea1: 190818 상암 팬사인회 오마이걸 유아
+
+체리야 사람이야?🍒
+https://t.co/bEdQ3yFqe0
+
+#오마이걸 #OHMYGIRL #おまごる #유아 #유시아 #yooa #ユア
+@WM_OHMYGIRL https:…,FALSE,0,NA,2019-10-22 02:32:28,FALSE,NA,1186470346213318656,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,ohmygirl_421,260,TRUE,FALSE,NA,NA
+RT @cyphaz__: new 를 했어야 하는구나 진짜 찐으로 제대로 캡쳐해왔음 얘드라 기억해 이 오지는 왁킹의 주인공은 오마이걸 유아야 https://t.co/bx3wSwX1yS,FALSE,0,NA,2019-10-22 02:32:28,FALSE,NA,1186470344464326658,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,whenever_August,37,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-22 02:23:30,FALSE,NA,1186468089820434432,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,sjdn626,520,TRUE,FALSE,NA,NA
+160407 MCountdown
+↳ YooA ❀ ‹Liar Liar› ( 오마이걸 유아 직캠 - 라이어라이어 ) https://t.co/eqmKYvcGq3,FALSE,0,snowberryss,2019-10-22 02:21:38,FALSE,1186152086741733376,1186467620947542017,766846745967890433,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,snowberryss,0,FALSE,FALSE,NA,NA
+RT @phonecamoa: 143. 오마이걸 유아
+
+실물보고 기절하지나 말길 https://t.co/dFTQD4zRn4,FALSE,0,NA,2019-10-22 01:55:28,FALSE,NA,1186461034988441601,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,gksidsid98,130,TRUE,FALSE,NA,NA
+RT @cyphaz__: new 를 했어야 하는구나 진짜 찐으로 제대로 캡쳐해왔음 얘드라 기억해 이 오지는 왁킹의 주인공은 오마이걸 유아야 https://t.co/bx3wSwX1yS,FALSE,0,NA,2019-10-22 01:48:44,FALSE,NA,1186459338442866688,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,AC9023,37,TRUE,FALSE,NA,NA
+RT @RP_OHMYGIRL: ©OhMyJIHOGI 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/UqNZ1mLZSK,FALSE,0,NA,2019-10-22 01:13:16,FALSE,NA,1186450413375148033,NA,<a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>,54321boomm,1,TRUE,FALSE,NA,NA
+오마이걸 폴라구해봅니다 DM주세요
+#오마이걸 #ohmygirl #아린 #승희 #지호 #미미 #유아 #비니 #효정,FALSE,0,NA,2019-10-22 01:09:50,FALSE,NA,1186449547817451520,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,aringod0618,0,FALSE,FALSE,NA,NA
+5. 오마이걸 유아
+
+여러분 유시아하세요 아무튼 유시아하세요 팬싸가서 뽕찬멤이 전 유아언니에요.....우리 언니 다정하고 귀엽고....웃는모습도 너무 예쁘고.....,FALSE,0,Kkething,2019-10-22 00:57:48,FALSE,1186394765589221376,1186446523443212290,984425208151916550,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,Kkething,0,FALSE,FALSE,NA,NA
+©OhMyJIHOGI 양산 삽량 빛 문화 축전
+191011 오마이걸 유아8 비니5
+
+#오마이걸 #유시아 #배유빈 https://t.co/5hPFvljQEL,FALSE,2,NA,2019-10-22 00:50:47,FALSE,NA,1186444753690189824,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,RP_OHMYGIRL,0,FALSE,FALSE,NA,NA
+©OhMyJIHOGI 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/UqNZ1mLZSK,FALSE,2,NA,2019-10-22 00:50:04,FALSE,NA,1186444576464068608,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,RP_OHMYGIRL,1,FALSE,FALSE,NA,NA
+3. 오마이걸
+
+사진 실종으로 그냥 쓸게욥. 툭 치면 부러질 것처럼 말랐음... 다들 얼굴 소멸 직전인데 유아가 특히 더 작았다.. 노래 듣고 소름돋아서 오열햇음..... 전부터 느끼지만 연예인은 늘 실물파야 난...,FALSE,0,diONYsus_drink,2019-10-22 00:41:35,FALSE,1186334093077692419,1186442439365517312,1114911989489258496,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,diONYsus_drink,0,FALSE,FALSE,NA,NA
+RT @god_glasses_: 18. 오마이걸 유아 https://t.co/UbG4Gz13ix,FALSE,0,NA,2019-10-22 00:18:30,FALSE,NA,1186436631718285312,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,dutpea7,45,TRUE,FALSE,NA,NA
+RT @god_glasses_: 18. 오마이걸 유아 https://t.co/UbG4Gz13ix,FALSE,0,NA,2019-10-22 00:04:23,FALSE,NA,1186433077850992640,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,northernsoul_ap,45,TRUE,FALSE,NA,NA
+RT @cyphaz__: new 를 했어야 하는구나 진짜 찐으로 제대로 캡쳐해왔음 얘드라 기억해 이 오지는 왁킹의 주인공은 오마이걸 유아야 https://t.co/bx3wSwX1yS,FALSE,0,NA,2019-10-22 00:03:08,FALSE,NA,1186432763831832577,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,songalreadyover,37,TRUE,FALSE,NA,NA
+RT @cyphaz__: new 를 했어야 하는구나 진짜 찐으로 제대로 캡쳐해왔음 얘드라 기억해 이 오지는 왁킹의 주인공은 오마이걸 유아야 https://t.co/bx3wSwX1yS,FALSE,0,NA,2019-10-21 23:48:06,FALSE,NA,1186428981978906626,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,northernsoul_ap,37,TRUE,FALSE,NA,NA
+RT @8_OHMYGIRL: [MPD직캠] 오마이걸 유아(식스퍼즐) 직캠 4K 'Smooth Criminal+POWER' (YOOA FanCam) @ 퀸덤_2019.10.10 
+(https://t.co/yQIKKjGjXD)
+
+#오마이걸 #OHMYGI…,FALSE,0,NA,2019-10-21 23:05:57,FALSE,NA,1186418371899744256,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,hwangyunzoeng,629,TRUE,FALSE,NA,NA
+RT @Cheong_Myeong_O: #오마이걸_트친소
+#미라클_트친소 
+다섯번째 계절로 오마이걸 많이 좋아하게 됐다가 퀸덤으로 오마이걸에 치여서 울며 옴걸먹기로 덕질중인 고삼 여크리입니다
+모든 멤버 사랑하는데 굳이 따지자면 유아언니가 최애인것 같아…,FALSE,0,NA,2019-10-21 22:45:29,FALSE,NA,1186413222384955392,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,johnkim3712,4,TRUE,FALSE,NA,NA
+RT @Love_UBin_: 오마이걸 유아 아크릴 키링 입금폼🍒
+
+#RT 추첨 두 분께 키링을 보내드립니다!
+
+🗓️ 2019.10.18 ~ 2019.10.23
+
+📌 꼭 입금 후 폼 작성 부탁드립니다:)
+📌 문의는 DM 부탁드립니다!
+📌 자세한 사항은…,FALSE,0,NA,2019-10-21 22:41:13,FALSE,NA,1186412150039834624,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,goraebabsaewoo,144,TRUE,FALSE,NA,NA
+RT @VOO_TH: 2.오마이걸 
+씨발 언니들 존나 예뻐 진짜 보고울뻔 유아 얼굴 개쪼꼬미,FALSE,0,NA,2019-10-21 22:04:17,FALSE,NA,1186402854157729792,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,UDGqnGO341Ztmgz,1,TRUE,FALSE,NA,NA
+RT @binky_1010: 6. 오마이걸 
+유아 얼굴 너무 작았음 그리고 실물 갑은 지호.. 아린이는 미자때라 그런지 상큼하고 귀엽게 생김 ㅠ 전부 다 하얗고 날씬해 애교 부리는 거 너무 귀엽더라ㅠㅜ 전체적으로 키가 작나? 요정같았음,FALSE,0,NA,2019-10-21 22:02:40,FALSE,NA,1186402446160982016,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,UDGqnGO341Ztmgz,1,TRUE,FALSE,NA,NA
+RT @nawonsei: 6.오마이걸
+
+오짐... 번지 바로 나왔을 때 봤는데 여름 청량 컨셉 옷 입고 있었음 존나 잘 어울리더라... 특희 승희랑 유아 너무너무 예뻐서 보는 내내 입 못 다물었던 기억,FALSE,0,NA,2019-10-21 22:02:20,FALSE,NA,1186402364380418048,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,UDGqnGO341Ztmgz,1,TRUE,FALSE,NA,NA
+RT @i_SSEUNG_u: 190919 퀸덤 오마이걸 cut
+
+👉 https://t.co/kFy10xeQ2O
+
+퀸덤 4화 오마이걸 cut 입니다. 총 27분 47초 입니다.
+
+#오마이걸 #OHMYGIRL #OMG #おまごる #퀸덤
+#효정 #미미 #…,FALSE,0,NA,2019-10-21 22:00:05,FALSE,NA,1186401797126213632,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,hyunaholic_917,171,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-21 21:59:53,FALSE,NA,1186401745338957824,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,Choigane_Chick,520,TRUE,FALSE,NA,NA
+6.오마이걸
+
+오짐... 번지 바로 나왔을 때 봤는데 여름 청량 컨셉 옷 입고 있었음 존나 잘 어울리더라... 특희 승희랑 유아 너무너무 예뻐서 보는 내내 입 못 다물었던 기억,FALSE,1,nawonsei,2019-10-21 21:55:24,FALSE,1186400373319163904,1186400617721257985,816623701751840768,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,nawonsei,1,FALSE,FALSE,NA,NA
+RT @god_glasses_: 18. 오마이걸 유아 https://t.co/UbG4Gz13ix,FALSE,0,NA,2019-10-21 21:50:42,FALSE,NA,1186399436492005376,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,UDGqnGO341Ztmgz,45,TRUE,FALSE,NA,NA
+RT @moon_light0123: 10. 오마이걸 유아 (사복) https://t.co/FPopr0qmYA,FALSE,0,NA,2019-10-21 21:50:18,FALSE,NA,1186399334570446848,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,UDGqnGO341Ztmgz,4,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 191011 양산삽량빛문화축전
+오마이걸 유아  #5
+
+#오마이걸 #유아 #유시아 #미라클 #크리 
+#OHMYGIRL https://t.co/2wzKQyWdGz,FALSE,0,NA,2019-10-21 20:38:55,FALSE,NA,1186381371540942849,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,_kuhngyeol,42,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-21 18:55:25,FALSE,NA,1186355322996379648,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,pinwheelAF,520,TRUE,FALSE,NA,NA
+6. 오마이걸 
+유아 얼굴 너무 작았음 그리고 실물 갑은 지호.. 아린이는 미자때라 그런지 상큼하고 귀엽게 생김 ㅠ 전부 다 하얗고 날씬해 애교 부리는 거 너무 귀엽더라ㅠㅜ 전체적으로 키가 작나? 요정같았음,FALSE,1,binky_1010,2019-10-21 17:17:51,FALSE,1186330105057951746,1186330771847430148,956528163210780672,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,binky_1010,1,FALSE,FALSE,NA,NA
+트와이스 오마이걸 최차애 멤버 알려주세요! — 투와이스 미나쯔위 오마이걸 유아승희 https://t.co/A8rl6S0o8K,FALSE,2,NA,2019-10-21 16:55:22,FALSE,NA,1186325111860793345,NA,<a href="http://ask.fm/" rel="nofollow">Ask.fm</a>,OOyu_3,0,FALSE,FALSE,NA,NA
+1. 오마이걸
+더히트 방청가서 본거라 그날 유아는 안나와서 못봤슴ㅠ근데 진짜 와 살면서 본사람중 제일 예뻤음 이세상 모든 카메라들은 대가리 박아야해 어떻게 그 미모들은 91817616분의 1도 못담아내지 티… https://t.co/7mCMZ4NMae,FALSE,0,pumong_twt,2019-10-21 16:34:04,TRUE,1186319258491338752,1186319751422730240,1063327346399170560,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,pumong_twt,0,FALSE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/VoEfLnUMfq,FALSE,0,NA,2019-10-21 16:22:26,FALSE,NA,1186316824671068163,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,flyseungwoo,41,TRUE,FALSE,NA,NA
+내가 퀸덤보고 입덕하고 덕질할 여돌 리스트
+오마이걸 유아 
+여자아이들 민니 우기
+마마무 싹다...,FALSE,0,NA,2019-10-21 16:19:12,FALSE,NA,1186316011441537026,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,Sweet_CornCandy,0,FALSE,FALSE,NA,NA
+오마이걸 유아로 서치하다 결국 찾아냈다 참지 않아,FALSE,0,NA,2019-10-21 16:10:31,FALSE,NA,1186313827215757313,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,najinsim2ya,0,FALSE,FALSE,NA,NA
+RT @OHMYJIOJIO: 191011 양산 삽량 빛 문화 축전
+오마이걸 유아 미미
+
+#오마이걸 #유아 #미미 #김미현 #유시아 https://t.co/yWQyrylJ5j,FALSE,0,NA,2019-10-21 15:50:06,FALSE,NA,1186308686584483841,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,ohjihoking,18,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-21 15:38:47,FALSE,NA,1186305839855886337,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,starlighteunjo,520,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-21 15:37:13,FALSE,NA,1186305446866382848,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,zxmmxz00,520,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-21 15:36:30,FALSE,NA,1186305265580118016,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,ohmychamsa,520,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 세상사람들 퀸덤 3차 1라운드 오마이걸 유아 1등했어요~!! https://t.co/iWM8W72zWh,FALSE,0,NA,2019-10-21 15:33:24,FALSE,NA,1186304485578043393,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,miracle_0421040,87,TRUE,FALSE,NA,NA
+RT @h0VL0hMNzFImt08: 오마이걸 유아 보름달 https://t.co/nUkzeJ8MvK,FALSE,0,NA,2019-10-21 15:33:21,FALSE,NA,1186304471749410816,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,miracle_0421040,88,TRUE,FALSE,NA,NA
+RT @cyphaz__: new 를 했어야 하는구나 진짜 찐으로 제대로 캡쳐해왔음 얘드라 기억해 이 오지는 왁킹의 주인공은 오마이걸 유아야 https://t.co/bx3wSwX1yS,FALSE,0,NA,2019-10-21 15:32:44,FALSE,NA,1186304318338551808,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,jalsaenggim_joa,37,TRUE,FALSE,NA,NA
+RT @h0VL0hMNzFImt08: 오마이걸 유아 Little Mix-Power https://t.co/dBbCiqqwOy,FALSE,0,NA,2019-10-21 15:31:56,FALSE,NA,1186304116391202816,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,jalsaenggim_joa,83,TRUE,FALSE,NA,NA
+RT @h0VL0hMNzFImt08: 오마이걸 유아 ㅠㅠ 물만두... 댓자나여... https://t.co/Zev7OmIaYc,FALSE,0,NA,2019-10-21 15:31:23,FALSE,NA,1186303976733466624,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,miracle_0421040,307,TRUE,FALSE,NA,NA
+RT @yooachyopa: 19.05.11 몸짱소방관 오마이걸 유아 프리뷰
+#오마이걸 #유아 #YooA https://t.co/ZgUZaXr13G,FALSE,0,NA,2019-10-21 15:28:47,FALSE,NA,1186303325701988353,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,eoghkswkd_ghksw,138,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-21 15:28:46,FALSE,NA,1186303319649570817,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,miracle_0421040,520,TRUE,FALSE,NA,NA
+RT @yooachyopa: 19.05.11 몸짱소방관 오마이걸 유아 
+#오마이걸 #유아 #YooA https://t.co/47Xu2Az15X,FALSE,0,NA,2019-10-21 15:28:43,FALSE,NA,1186303306315911174,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,eoghkswkd_ghksw,81,TRUE,FALSE,NA,NA
+RT @yooachyopa: 19.08.31 인제 오마이걸 유아 
+#오마이걸 #유아 #유시아 #YooA
+#OHMYGIRL https://t.co/QCFB5Aln4z,FALSE,0,NA,2019-10-21 15:28:31,FALSE,NA,1186303258567962626,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,eoghkswkd_ghksw,36,TRUE,FALSE,NA,NA
+RT @Cheong_Myeong_O: #오마이걸_트친소
+#미라클_트친소 
+다섯번째 계절로 오마이걸 많이 좋아하게 됐다가 퀸덤으로 오마이걸에 치여서 울며 옴걸먹기로 덕질중인 고삼 여크리입니다
+모든 멤버 사랑하는데 굳이 따지자면 유아언니가 최애인것 같아…,FALSE,0,NA,2019-10-21 15:21:10,FALSE,NA,1186301407667732484,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,takkunv15,4,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/VoEfLnUMfq,FALSE,0,NA,2019-10-21 15:20:55,FALSE,NA,1186301342156914688,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,yooshiahn,41,TRUE,FALSE,NA,NA
+4.오마이걸~~!!
+아 마지막에 오셔서
+10신가?에 봤는데 맨앞에서 봄ㅎㅎ
+와..내가 그땐 바보같이 유아밖에 몰라서 유아만 찍음..ㅠㅠ
+근데 진짜진짜진짜 예쁨!!!!
+티비보다 더 빛이 나셔 ㄹㅇ...
+근데 뒤에 남자애들 입냄새땜에 좀 기분 잡쳤었음,FALSE,1,epi0325,2019-10-21 15:15:24,FALSE,1186297413465600007,1186299954186186752,1141242861188341760,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,epi0325,0,FALSE,FALSE,NA,NA
+RT @cmvLcitrVk2mUTe: 86. 김청하 백제예술대학교 실용댄스과 졸업(전문학사) 
+세종대 글로벌지식평생교육원 실용무용과 14학번 입학실기 상위10% (오마이걸 유아랑 동기) https://t.co/yTDRv11FMS,FALSE,0,NA,2019-10-21 15:11:27,FALSE,NA,1186298961952268288,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,Sin_B_Mo,30,TRUE,FALSE,NA,NA
+RT @singing_voice_: 158.오마이걸 유아 -코뿔소 https://t.co/Lrtq9BDHPP,FALSE,0,NA,2019-10-21 15:07:15,FALSE,NA,1186297905855909888,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,Island__yona,58,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-21 14:51:35,FALSE,NA,1186293963268874240,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,cho_seokk,520,TRUE,FALSE,NA,NA
+죠냥이 배토야처럼 오마이걸 유아 인형 제작하면 구매하고 싶어요!,FALSE,0,NA,2019-10-21 14:50:10,FALSE,NA,1186293603615641601,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,OHMYGIRL_SKY,0,FALSE,FALSE,NA,NA
+RT @h0VL0hMNzFImt08: 오마이걸 유아 ㅠㅠ 물만두... 댓자나여... https://t.co/Zev7OmIaYc,FALSE,0,NA,2019-10-21 14:42:05,FALSE,NA,1186291569738960896,NA,<a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>,sarah32571,307,TRUE,FALSE,NA,NA
+RT @cyphaz__: new 를 했어야 하는구나 진짜 찐으로 제대로 캡쳐해왔음 얘드라 기억해 이 오지는 왁킹의 주인공은 오마이걸 유아야 https://t.co/bx3wSwX1yS,FALSE,0,NA,2019-10-21 14:36:19,FALSE,NA,1186290121110253568,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,Lihoo__,37,TRUE,FALSE,NA,NA
+RT @gcdagsg: 다들 오마이걸 미미 유아가 커버한 세뇨리따 보고가셔라,, 읊조리는 미미 저음랩에 미쳐버린 유시아 음색이 쳐돌아버림ㅜ
+김미미 정말 잘생겼고 랩도 잘하고 인생의진리 https://t.co/gIkh0Jknix,FALSE,0,NA,2019-10-21 14:35:42,FALSE,NA,1186289963983261697,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,grcnmjbf,11539,TRUE,FALSE,NA,NA
+RT @cyphaz__: new 를 했어야 하는구나 진짜 찐으로 제대로 캡쳐해왔음 얘드라 기억해 이 오지는 왁킹의 주인공은 오마이걸 유아야 https://t.co/bx3wSwX1yS,FALSE,0,NA,2019-10-21 14:28:28,FALSE,NA,1186288142535417856,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,bbuggu_baang,37,TRUE,FALSE,NA,NA
+RT @cmvLcitrVk2mUTe: 86. 김청하 백제예술대학교 실용댄스과 졸업(전문학사) 
+세종대 글로벌지식평생교육원 실용무용과 14학번 입학실기 상위10% (오마이걸 유아랑 동기) https://t.co/yTDRv11FMS,FALSE,0,NA,2019-10-21 14:16:58,FALSE,NA,1186285250814414848,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,G_Ggong__,30,TRUE,FALSE,NA,NA
+RT @gcdagsg: 다들 오마이걸 미미 유아가 커버한 세뇨리따 보고가셔라,, 읊조리는 미미 저음랩에 미쳐버린 유시아 음색이 쳐돌아버림ㅜ
+김미미 정말 잘생겼고 랩도 잘하고 인생의진리 https://t.co/gIkh0Jknix,FALSE,0,NA,2019-10-21 14:14:15,FALSE,NA,1186284565356171264,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,QJH_o4o4,11539,TRUE,FALSE,NA,NA
+RT @cherrysha_v: 한치의 거짓없이 이것은 1.0배속 입니다. 처음 보고 내눈을 의심함 내가 방금 뭘본거지...??? 
+
+세상 사람들아 이사람이 바로 유아예요... 오마이걸 인간체리 유시아!!!💕💘🍒
+
+#유아 #유시아 #오마이걸 #퀸덤 h…,FALSE,0,NA,2019-10-21 14:09:50,FALSE,NA,1186283453588750337,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,surrr_00,237,TRUE,FALSE,NA,NA
+RT @h0VL0hMNzFImt08: 오마이걸 유아 ㅠㅠ 물만두... 댓자나여... https://t.co/Zev7OmIaYc,FALSE,0,NA,2019-10-21 14:06:08,FALSE,NA,1186282524961435654,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,surrr_00,307,TRUE,FALSE,NA,NA
+오마이걸 유아랑 아이들 수진이랑 둘다 체리상이지만 유아는 뭔가 좀 더 깜찍달콤 앵두나 칵테일체리st고 수진이는 완전 찌이이인하게 잘익고탐스러운 캘리포니아 체리st,FALSE,0,NA,2019-10-21 14:02:41,FALSE,NA,1186281656660791296,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,PRPR_draw,0,FALSE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-21 13:46:30,FALSE,NA,1186277581852512256,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,lny0420,520,TRUE,FALSE,NA,NA
+RT @cyphaz__: new 를 했어야 하는구나 진짜 찐으로 제대로 캡쳐해왔음 얘드라 기억해 이 오지는 왁킹의 주인공은 오마이걸 유아야 https://t.co/bx3wSwX1yS,FALSE,0,NA,2019-10-21 13:25:23,FALSE,NA,1186272269716209664,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,_all_yes,37,TRUE,FALSE,NA,NA
+RT @Cheong_Myeong_O: #오마이걸_트친소
+#미라클_트친소 
+다섯번째 계절로 오마이걸 많이 좋아하게 됐다가 퀸덤으로 오마이걸에 치여서 울며 옴걸먹기로 덕질중인 고삼 여크리입니다
+모든 멤버 사랑하는데 굳이 따지자면 유아언니가 최애인것 같아…,FALSE,0,NA,2019-10-21 13:21:09,FALSE,NA,1186271204497182720,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,950917_YooSiA,4,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/VoEfLnUMfq,FALSE,0,NA,2019-10-21 13:20:48,FALSE,NA,1186271117759209472,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,evilyooa,41,TRUE,FALSE,NA,NA
+#오마이걸_트친소
+#미라클_트친소 
+다섯번째 계절로 오마이걸 많이 좋아하게 됐다가 퀸덤으로 오마이걸에 치여서 울며 옴걸먹기로 덕질중인 고삼 여크리입니다
+모든 멤버 사랑하는데 굳이 따지자면 유아언니가 최애인것… https://t.co/DEAut89Us5,FALSE,35,NA,2019-10-21 13:20:22,TRUE,NA,1186271008136650752,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,Cheong_Myeong_O,4,FALSE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 삽량 빛 문화 축전
+191011 오마이걸 유아8 비니5
+
+#오마이걸 #유시아 #배유빈 https://t.co/FdEsu1aS41,FALSE,0,NA,2019-10-21 13:18:53,FALSE,NA,1186270635250634753,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,evilyooa,27,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/VoEfLnUMfq,FALSE,0,NA,2019-10-21 13:17:09,FALSE,NA,1186270196475936768,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,Mf4YskuRZgm85PY,41,TRUE,FALSE,NA,NA
+RT @cherrysha_v: 한치의 거짓없이 이것은 1.0배속 입니다. 처음 보고 내눈을 의심함 내가 방금 뭘본거지...??? 
+
+세상 사람들아 이사람이 바로 유아예요... 오마이걸 인간체리 유시아!!!💕💘🍒
+
+#유아 #유시아 #오마이걸 #퀸덤 h…,FALSE,0,NA,2019-10-21 13:16:59,FALSE,NA,1186270154356740097,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,Mf4YskuRZgm85PY,237,TRUE,FALSE,NA,NA
+다들 오마이걸 1일1투표 고고
+
+)) https://t.co/XN2ax7OHQJ
+
+#오마이걸 #ohmygirl #효정 #유아 #아린 #지호 #미미 #비니 #승희 #아이로그유 #아이로그U #kpop… https://t.co/JYrfx09jcv,FALSE,0,NA,2019-10-21 13:16:12,TRUE,NA,1186269958822432769,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,Mf4YskuRZgm85PY,0,FALSE,FALSE,NA,NA
+오마이걸3위ㅠㅠㅠ1위만들자 ㄱ ㄱ
+
+)) https://t.co/XN2ax7OHQJ
+
+#오마이걸 #ohmygirl #효정 #유아 #아린 #지호 #미미 #비니 #승희 #아이로그유 #아이로그U #kpop… https://t.co/pU4b84fGIq,FALSE,0,NA,2019-10-21 13:15:39,TRUE,NA,1186269819860971521,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,Mf4YskuRZgm85PY,0,FALSE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/VoEfLnUMfq,FALSE,0,NA,2019-10-21 13:03:11,FALSE,NA,1186266683037474822,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,cerispy,41,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 삽량 빛 문화 축전
+191011 오마이걸 유아8 비니5
+
+#오마이걸 #유시아 #배유빈 https://t.co/FdEsu1aS41,FALSE,0,NA,2019-10-21 12:46:30,FALSE,NA,1186262482672766978,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,MaiAek6,27,TRUE,FALSE,NA,NA
+RT @cyphaz__: new 를 했어야 하는구나 진짜 찐으로 제대로 캡쳐해왔음 얘드라 기억해 이 오지는 왁킹의 주인공은 오마이걸 유아야 https://t.co/bx3wSwX1yS,FALSE,0,NA,2019-10-21 12:31:26,FALSE,NA,1186258692728975361,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,brjue_01,37,TRUE,FALSE,NA,NA
+RT @cherrysha_v: 한치의 거짓없이 이것은 1.0배속 입니다. 처음 보고 내눈을 의심함 내가 방금 뭘본거지...??? 
+
+세상 사람들아 이사람이 바로 유아예요... 오마이걸 인간체리 유시아!!!💕💘🍒
+
+#유아 #유시아 #오마이걸 #퀸덤 h…,FALSE,0,NA,2019-10-21 12:24:24,FALSE,NA,1186256923588300800,NA,<a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>,Goonies102,237,TRUE,FALSE,NA,NA
+RT @h0VL0hMNzFImt08: 오마이걸 유아 ㅠㅠ 물만두... 댓자나여... https://t.co/Zev7OmIaYc,FALSE,0,NA,2019-10-21 12:22:40,FALSE,NA,1186256486210535425,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,jona_jowa,307,TRUE,FALSE,NA,NA
+RT @IDOL_ALLDAY: ▶ 셀럽 : 오마이걸 유아 
+▶ 어디 : 190818 팬사인회
+▶ 브랜드 : 로맨틱크라운 (ROMANTIC CROWN)
+▶ 모델명 : [R.C X M.G]Thunder Angel T Shirts_Black
+▶ 가격 :…,FALSE,0,NA,2019-10-21 12:13:57,FALSE,NA,1186254294036533253,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,oh_my_loveMll,5,TRUE,FALSE,NA,NA
+동생이랑 드디어 약간의 공통점을 찾았다. 적어도 동물이랑 아이돌 드고 닮았다하는 거 꺼려하는 것과
+
+우리 둘 다 인간보단 용 또는 새가 훨씬 잘생겼다고 인정하는 거.
+
+그리고 오마이걸의 유아가 정말 정말..… https://t.co/7sEDt6QxNk,FALSE,2,NA,2019-10-21 12:10:09,TRUE,NA,1186253338129494017,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,ozion485,0,FALSE,FALSE,NA,NA
+RT @Love_UBin_: 오마이걸 유아 아크릴 키링 입금폼🍒
+
+#RT 추첨 두 분께 키링을 보내드립니다!
+
+🗓️ 2019.10.18 ~ 2019.10.23
+
+📌 꼭 입금 후 폼 작성 부탁드립니다:)
+📌 문의는 DM 부탁드립니다!
+📌 자세한 사항은…,FALSE,0,NA,2019-10-21 12:06:26,FALSE,NA,1186252402585849856,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,_basement97,144,TRUE,FALSE,NA,NA
+RT @cyphaz__: new 를 했어야 하는구나 진짜 찐으로 제대로 캡쳐해왔음 얘드라 기억해 이 오지는 왁킹의 주인공은 오마이걸 유아야 https://t.co/bx3wSwX1yS,FALSE,0,NA,2019-10-21 12:05:22,FALSE,NA,1186252131252105216,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,fearless_hun,37,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 삽량 빛 문화 축전
+191011 오마이걸 유아8 비니5
+
+#오마이걸 #유시아 #배유빈 https://t.co/FdEsu1aS41,FALSE,0,NA,2019-10-21 12:05:18,FALSE,NA,1186252116366524416,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,johnkim3712,27,TRUE,FALSE,NA,NA
+RT @Love_UBin_: 오마이걸 유아 아크릴 키링 입금폼🍒
+
+#RT 추첨 두 분께 키링을 보내드립니다!
+
+🗓️ 2019.10.18 ~ 2019.10.23
+
+📌 꼭 입금 후 폼 작성 부탁드립니다:)
+📌 문의는 DM 부탁드립니다!
+📌 자세한 사항은…,FALSE,0,NA,2019-10-21 12:03:27,FALSE,NA,1186251648005369856,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,of__18,144,TRUE,FALSE,NA,NA
+RT @Love_UBin_: 오마이걸 유아 아크릴 키링 입금폼🍒
+
+#RT 추첨 두 분께 키링을 보내드립니다!
+
+🗓️ 2019.10.18 ~ 2019.10.23
+
+📌 꼭 입금 후 폼 작성 부탁드립니다:)
+📌 문의는 DM 부탁드립니다!
+📌 자세한 사항은…,FALSE,0,NA,2019-10-21 12:01:53,FALSE,NA,1186251253652701184,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,ahswb0421,144,TRUE,FALSE,NA,NA
+RT @cherrysha_v: 한치의 거짓없이 이것은 1.0배속 입니다. 처음 보고 내눈을 의심함 내가 방금 뭘본거지...??? 
+
+세상 사람들아 이사람이 바로 유아예요... 오마이걸 인간체리 유시아!!!💕💘🍒
+
+#유아 #유시아 #오마이걸 #퀸덤 h…,FALSE,0,NA,2019-10-21 11:59:57,FALSE,NA,1186250769248309248,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,dhrwodms,237,TRUE,FALSE,NA,NA
+RT @cyphaz__: new 를 했어야 하는구나 진짜 찐으로 제대로 캡쳐해왔음 얘드라 기억해 이 오지는 왁킹의 주인공은 오마이걸 유아야 https://t.co/bx3wSwX1yS,FALSE,0,NA,2019-10-21 11:59:25,FALSE,NA,1186250637027135488,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,dhrwodms,37,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-21 11:56:20,FALSE,NA,1186249859998744578,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,fearless_hun,520,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-21 11:50:11,FALSE,NA,1186248312271167488,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,chanhee0423,520,TRUE,FALSE,NA,NA
+@six_six_nine 에이프릴 이나은이요! 
+오마이걸 유아요!,FALSE,1,six_six_nine,2019-10-21 11:46:38,FALSE,1186246627935154176,1186247419232768000,960280739693473792,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,siho7shio2,0,FALSE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/VoEfLnUMfq,FALSE,0,NA,2019-10-21 11:41:53,FALSE,NA,1186246224514387969,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,johnkim3712,41,TRUE,FALSE,NA,NA
+RT @singing_voice_: 260.오마이걸 유아 - CLOSER https://t.co/x81Nh7pgiS,FALSE,0,NA,2019-10-21 11:36:14,FALSE,NA,1186244799528988674,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,jalsaenggim_joa,18,TRUE,FALSE,NA,NA
+RT @singing_voice_: 270.오마이걸 유아 - Destiny https://t.co/izpAWyzdy4,FALSE,0,NA,2019-10-21 11:36:04,FALSE,NA,1186244758223478784,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,jalsaenggim_joa,8,TRUE,FALSE,NA,NA
+RT @cyphaz__: new 를 했어야 하는구나 진짜 찐으로 제대로 캡쳐해왔음 얘드라 기억해 이 오지는 왁킹의 주인공은 오마이걸 유아야 https://t.co/bx3wSwX1yS,FALSE,0,NA,2019-10-21 11:32:35,FALSE,NA,1186243880909340673,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,joung_0421,37,TRUE,FALSE,NA,NA
+WM_OHMYGIRL 효정 진이 유아 미미 승희 비니 지호 아린 오마이걸♡,FALSE,0,NA,2019-10-21 11:25:19,FALSE,NA,1186242054151557120,NA,<a href="http://twittbot.net/" rel="nofollow">twittbot.net</a>,mimimanju_jh,0,FALSE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-21 11:23:59,FALSE,NA,1186241716623265794,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,mrcss0325,520,TRUE,FALSE,NA,NA
+RT @cyphaz__: new 를 했어야 하는구나 진짜 찐으로 제대로 캡쳐해왔음 얘드라 기억해 이 오지는 왁킹의 주인공은 오마이걸 유아야 https://t.co/bx3wSwX1yS,FALSE,0,NA,2019-10-21 11:23:03,FALSE,NA,1186241483801690112,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,gimmim_0501,37,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 삽량 빛 문화 축전
+191011 오마이걸 유아8 비니5
+
+#오마이걸 #유시아 #배유빈 https://t.co/FdEsu1aS41,FALSE,0,NA,2019-10-21 11:17:08,FALSE,NA,1186239993112453121,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,OHMY_Jia,27,TRUE,FALSE,NA,NA
+RT @h0VL0hMNzFImt08: 오마이걸 유아 ㅠㅠ 물만두... 댓자나여... https://t.co/Zev7OmIaYc,FALSE,0,NA,2019-10-21 11:16:25,FALSE,NA,1186239815366242305,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,bark09bowwow,307,TRUE,FALSE,NA,NA
+RT @cyphaz__: new 를 했어야 하는구나 진짜 찐으로 제대로 캡쳐해왔음 얘드라 기억해 이 오지는 왁킹의 주인공은 오마이걸 유아야 https://t.co/bx3wSwX1yS,FALSE,0,NA,2019-10-21 11:10:20,FALSE,NA,1186238280989200384,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,dorabback,37,TRUE,FALSE,NA,NA
+RT @h0VL0hMNzFImt08: 오마이걸 유아 ㅠㅠ 물만두... 댓자나여... https://t.co/Zev7OmIaYc,FALSE,0,NA,2019-10-21 11:10:00,FALSE,NA,1186238198457876480,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,iook77648827,307,TRUE,FALSE,NA,NA
+오마이걸 유아님....눈꼬리 좀 더 내려갈껄 https://t.co/ZxFfy5Emxq,FALSE,7,NA,2019-10-21 11:08:13,FALSE,NA,1186237749105291264,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,ante_magenta,0,FALSE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/VoEfLnUMfq,FALSE,0,NA,2019-10-21 11:00:45,FALSE,NA,1186235869574746113,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,WM_OHMYBINNIE,41,TRUE,FALSE,NA,NA
+RT @fanandjj: 70. 오마이걸 유아 https://t.co/mcKJHyxAr2,FALSE,0,NA,2019-10-21 10:59:57,FALSE,NA,1186235671460999170,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,theverypakchoi,2053,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 삽량 빛 문화 축전
+191011 오마이걸 유아8 비니5
+
+#오마이걸 #유시아 #배유빈 https://t.co/FdEsu1aS41,FALSE,0,NA,2019-10-21 10:52:37,FALSE,NA,1186233824599896064,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,Jujubking_,27,TRUE,FALSE,NA,NA
+RT @cmvLcitrVk2mUTe: 86. 김청하 백제예술대학교 실용댄스과 졸업(전문학사) 
+세종대 글로벌지식평생교육원 실용무용과 14학번 입학실기 상위10% (오마이걸 유아랑 동기) https://t.co/yTDRv11FMS,FALSE,0,NA,2019-10-21 10:46:30,FALSE,NA,1186232285542023169,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,lossom_,30,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/VoEfLnUMfq,FALSE,0,NA,2019-10-21 10:44:20,FALSE,NA,1186231738802036736,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,fayrxyng,41,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 삽량 빛 문화 축전
+191011 오마이걸 유아8 비니5
+
+#오마이걸 #유시아 #배유빈 https://t.co/FdEsu1aS41,FALSE,0,NA,2019-10-21 10:39:16,FALSE,NA,1186230464782032896,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,QJH_o4o4,27,TRUE,FALSE,NA,NA
+RT @cmvLcitrVk2mUTe: 86. 김청하 백제예술대학교 실용댄스과 졸업(전문학사) 
+세종대 글로벌지식평생교육원 실용무용과 14학번 입학실기 상위10% (오마이걸 유아랑 동기) https://t.co/yTDRv11FMS,FALSE,0,NA,2019-10-21 10:36:15,FALSE,NA,1186229703515893760,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,dog_river_,30,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-21 10:33:15,FALSE,NA,1186228952395681792,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,lossom_,520,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/VoEfLnUMfq,FALSE,0,NA,2019-10-21 10:32:52,FALSE,NA,1186228852512526337,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,cherryoo_a,41,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-21 10:29:48,FALSE,NA,1186228080362184704,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,dog_river_,520,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/VoEfLnUMfq,FALSE,0,NA,2019-10-21 10:29:05,FALSE,NA,1186227901135376384,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,XGCLKbcIX1BDFQr,41,TRUE,FALSE,NA,NA
+오마이걸 유아 너무 취향임...ㅜ ㅜㅜ https://t.co/bnlylnbsM7,FALSE,1,NA,2019-10-21 10:26:50,FALSE,NA,1186227334099062784,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,dWAPLanet_cre,0,FALSE,FALSE,NA,NA
+RT @cyphaz__: new 를 했어야 하는구나 진짜 찐으로 제대로 캡쳐해왔음 얘드라 기억해 이 오지는 왁킹의 주인공은 오마이걸 유아야 https://t.co/bx3wSwX1yS,FALSE,0,NA,2019-10-21 10:25:53,FALSE,NA,1186227097280249856,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,seunghee_like,37,TRUE,FALSE,NA,NA
+RT @mitzy_Miracle: 10월 29일 호남대 오마이걸 건강상의 문제로 취소됬답니다 하 진짜 건강 좀 잘 챙겨줬으면 ㅠ 호남대 가까워서 갈수있었지만 건강이 더 중요
+
+#오마이걸 #효정 #미미 #유아 #승희 #지호 #비니 #아린 #ohmygi…,FALSE,0,NA,2019-10-21 10:13:44,FALSE,NA,1186224037761994757,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,_D__Du,26,TRUE,FALSE,NA,NA
+RT @cherrysha_v: 한치의 거짓없이 이것은 1.0배속 입니다. 처음 보고 내눈을 의심함 내가 방금 뭘본거지...??? 
+
+세상 사람들아 이사람이 바로 유아예요... 오마이걸 인간체리 유시아!!!💕💘🍒
+
+#유아 #유시아 #오마이걸 #퀸덤 h…,FALSE,0,NA,2019-10-21 10:13:12,FALSE,NA,1186223905280708614,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,the_gummyqueer,237,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 삽량 빛 문화 축전
+191011 오마이걸 유아8 비니5
+
+#오마이걸 #유시아 #배유빈 https://t.co/FdEsu1aS41,FALSE,0,NA,2019-10-21 10:03:07,FALSE,NA,1186221366493638657,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,940728__,27,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/VoEfLnUMfq,FALSE,0,NA,2019-10-21 10:02:14,FALSE,NA,1186221143260139521,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,940728__,41,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/VoEfLnUMfq,FALSE,0,NA,2019-10-21 09:47:12,FALSE,NA,1186217360212058112,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,ohmygrlz,41,TRUE,FALSE,NA,NA
+RT @cyphaz__: new 를 했어야 하는구나 진짜 찐으로 제대로 캡쳐해왔음 얘드라 기억해 이 오지는 왁킹의 주인공은 오마이걸 유아야 https://t.co/bx3wSwX1yS,FALSE,0,NA,2019-10-21 09:38:00,FALSE,NA,1186215044754706433,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,Omchae0421,37,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-21 09:33:45,FALSE,NA,1186213977157558272,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,qazwertyhb,520,TRUE,FALSE,NA,NA
+RT @mitzy_Miracle: 10월 29일 호남대 오마이걸 건강상의 문제로 취소됬답니다 하 진짜 건강 좀 잘 챙겨줬으면 ㅠ 호남대 가까워서 갈수있었지만 건강이 더 중요
+
+#오마이걸 #효정 #미미 #유아 #승희 #지호 #비니 #아린 #ohmygi…,FALSE,0,NA,2019-10-21 09:30:41,FALSE,NA,1186213203425939456,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,Rin__Up__,26,TRUE,FALSE,NA,NA
+RT @cyphaz__: new 를 했어야 하는구나 진짜 찐으로 제대로 캡쳐해왔음 얘드라 기억해 이 오지는 왁킹의 주인공은 오마이걸 유아야 https://t.co/bx3wSwX1yS,FALSE,0,NA,2019-10-21 09:23:36,FALSE,NA,1186211420636975104,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,girlsgowilder,37,TRUE,FALSE,NA,NA
+RT @h0VL0hMNzFImt08: 오마이걸 유아 ㅠㅠ 물만두... 댓자나여... https://t.co/Zev7OmIaYc,FALSE,0,NA,2019-10-21 09:18:34,FALSE,NA,1186210154376617985,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,GyojaMandu_Man,307,TRUE,FALSE,NA,NA
+RT @h0VL0hMNzFImt08: 오마이걸 유아 ㅠㅠ 물만두... 댓자나여... https://t.co/Zev7OmIaYc,FALSE,0,NA,2019-10-21 09:17:52,FALSE,NA,1186209978593398785,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,ZA6IujitDWsjOru,307,TRUE,FALSE,NA,NA
+RT @cyphaz__: new 를 했어야 하는구나 진짜 찐으로 제대로 캡쳐해왔음 얘드라 기억해 이 오지는 왁킹의 주인공은 오마이걸 유아야 https://t.co/bx3wSwX1yS,FALSE,0,NA,2019-10-21 09:10:21,FALSE,NA,1186208086987395072,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,m_Om_G_Yo,37,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-21 09:04:13,FALSE,NA,1186206544938930176,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,Vkq62rJb6bDv8G7,520,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-21 09:01:24,FALSE,NA,1186205834461634560,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,derNamederWelt,520,TRUE,FALSE,NA,NA
+RT @h0VL0hMNzFImt08: 오마이걸 유아 보름달 https://t.co/nUkzeJ8MvK,FALSE,0,NA,2019-10-21 08:56:51,FALSE,NA,1186204689114652672,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,crazylikeberse1,88,TRUE,FALSE,NA,NA
+RT @cherrysha_v: 한치의 거짓없이 이것은 1.0배속 입니다. 처음 보고 내눈을 의심함 내가 방금 뭘본거지...??? 
+
+세상 사람들아 이사람이 바로 유아예요... 오마이걸 인간체리 유시아!!!💕💘🍒
+
+#유아 #유시아 #오마이걸 #퀸덤 h…,FALSE,0,NA,2019-10-21 08:44:57,FALSE,NA,1186201696998842369,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,BKU_56,237,TRUE,FALSE,NA,NA
+RT @BomBom_426: 오마이걸 유아 누구 닮았지 했는데 체리마루 닮았어 https://t.co/xd0kIUdJGC,FALSE,0,NA,2019-10-21 08:32:57,FALSE,NA,1186198677070565376,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,matcha_365,11,TRUE,FALSE,NA,NA
+RT @cherrysha_v: 한치의 거짓없이 이것은 1.0배속 입니다. 처음 보고 내눈을 의심함 내가 방금 뭘본거지...??? 
+
+세상 사람들아 이사람이 바로 유아예요... 오마이걸 인간체리 유시아!!!💕💘🍒
+
+#유아 #유시아 #오마이걸 #퀸덤 h…,FALSE,0,NA,2019-10-21 08:32:24,FALSE,NA,1186198536595001345,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,kimdukhoo0522,237,TRUE,FALSE,NA,NA
+오마이걸 유아님과 함께한 #조정식의인싸이더
+10/22 6시 최초공개! https://t.co/9kZllPCOlZ,FALSE,1,NA,2019-10-21 08:29:28,FALSE,NA,1186197799030779904,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,ayoj6ixfan,0,FALSE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/VoEfLnUMfq,FALSE,0,NA,2019-10-21 08:29:23,FALSE,NA,1186197778134781952,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,f4RBHMo8TEpSxrg,41,TRUE,FALSE,NA,NA
+RT @cherrysha_v: 한치의 거짓없이 이것은 1.0배속 입니다. 처음 보고 내눈을 의심함 내가 방금 뭘본거지...??? 
+
+세상 사람들아 이사람이 바로 유아예요... 오마이걸 인간체리 유시아!!!💕💘🍒
+
+#유아 #유시아 #오마이걸 #퀸덤 h…,FALSE,0,NA,2019-10-21 08:25:16,FALSE,NA,1186196741407666176,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,BoriboriSsari,237,TRUE,FALSE,NA,NA
+RT @_unnieyaaaa: 오마이걸 유아 미미 senorita
+미미가직접랩작사제작편집..걍다함ㄷㄷㄷ
+유시아음색도오져요ㅠㅠㅠㅠㅠ https://t.co/9Hxz820h4v,FALSE,0,NA,2019-10-21 08:25:09,FALSE,NA,1186196713108754432,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,hotspicygirl_,827,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/VoEfLnUMfq,FALSE,0,NA,2019-10-21 08:19:08,FALSE,NA,1186195198251950081,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,ffy0520,41,TRUE,FALSE,NA,NA
+RT @cyphaz__: new 를 했어야 하는구나 진짜 찐으로 제대로 캡쳐해왔음 얘드라 기억해 이 오지는 왁킹의 주인공은 오마이걸 유아야 https://t.co/bx3wSwX1yS,FALSE,0,NA,2019-10-21 08:18:52,FALSE,NA,1186195130518097920,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,qwerpom,37,TRUE,FALSE,NA,NA
+RT @BomBom_426: 오마이걸 유아 누구 닮았지 했는데 체리마루 닮았어 https://t.co/xd0kIUdJGC,FALSE,0,NA,2019-10-21 08:15:45,FALSE,NA,1186194347206688769,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,songalreadyover,11,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-21 08:15:34,FALSE,NA,1186194300591149056,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,AC9023,520,TRUE,FALSE,NA,NA
+RT @cherrysha_v: 한치의 거짓없이 이것은 1.0배속 입니다. 처음 보고 내눈을 의심함 내가 방금 뭘본거지...??? 
+
+세상 사람들아 이사람이 바로 유아예요... 오마이걸 인간체리 유시아!!!💕💘🍒
+
+#유아 #유시아 #오마이걸 #퀸덤 h…,FALSE,0,NA,2019-10-21 08:15:10,FALSE,NA,1186194201748205568,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,songalreadyover,237,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-21 08:14:54,FALSE,NA,1186194133725175813,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,songalreadyover,520,TRUE,FALSE,NA,NA
+RT @BomBom_426: 오마이걸 유아 누구 닮았지 했는데 체리마루 닮았어 https://t.co/xd0kIUdJGC,FALSE,0,NA,2019-10-21 08:13:51,FALSE,NA,1186193870251425793,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,northernsoul_ap,11,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-21 08:11:54,FALSE,NA,1186193378364420096,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,northernsoul_ap,520,TRUE,FALSE,NA,NA
+RT @cherrysha_v: 한치의 거짓없이 이것은 1.0배속 입니다. 처음 보고 내눈을 의심함 내가 방금 뭘본거지...??? 
+
+세상 사람들아 이사람이 바로 유아예요... 오마이걸 인간체리 유시아!!!💕💘🍒
+
+#유아 #유시아 #오마이걸 #퀸덤 h…,FALSE,0,NA,2019-10-21 08:11:49,FALSE,NA,1186193356591730688,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,northernsoul_ap,237,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/VoEfLnUMfq,FALSE,0,NA,2019-10-21 08:11:44,FALSE,NA,1186193335825752065,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,holic0813,41,TRUE,FALSE,NA,NA
+RT @cherrysha_v: 한치의 거짓없이 이것은 1.0배속 입니다. 처음 보고 내눈을 의심함 내가 방금 뭘본거지...??? 
+
+세상 사람들아 이사람이 바로 유아예요... 오마이걸 인간체리 유시아!!!💕💘🍒
+
+#유아 #유시아 #오마이걸 #퀸덤 h…,FALSE,0,NA,2019-10-21 08:09:26,FALSE,NA,1186192758614065152,NA,<a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>,Ff14Uk,237,TRUE,FALSE,NA,NA
+RT @cherrysha_v: 한치의 거짓없이 이것은 1.0배속 입니다. 처음 보고 내눈을 의심함 내가 방금 뭘본거지...??? 
+
+세상 사람들아 이사람이 바로 유아예요... 오마이걸 인간체리 유시아!!!💕💘🍒
+
+#유아 #유시아 #오마이걸 #퀸덤 h…,FALSE,0,NA,2019-10-21 08:07:12,FALSE,NA,1186192194429829121,NA,<a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>,mercy76_pistol,237,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-21 08:06:51,FALSE,NA,1186192106848579584,NA,<a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>,mercy76_pistol,520,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/VoEfLnUMfq,FALSE,0,NA,2019-10-21 08:05:22,FALSE,NA,1186191733459046400,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,littlePe728,41,TRUE,FALSE,NA,NA
+RT @cmvLcitrVk2mUTe: 86. 김청하 백제예술대학교 실용댄스과 졸업(전문학사) 
+세종대 글로벌지식평생교육원 실용무용과 14학번 입학실기 상위10% (오마이걸 유아랑 동기) https://t.co/yTDRv11FMS,FALSE,0,NA,2019-10-21 08:04:20,FALSE,NA,1186191473332477952,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,qwe_0806,30,TRUE,FALSE,NA,NA
+오마이걸 미미 그립톡 운미포 0.8 양도해요 
+
+ㅅㅊㅇ 오마이걸 옴걸 굿즈 여돌 걸그룹 효정 아린 비니 지호 미미 유아 승희 https://t.co/PCSUpGtNqo,FALSE,1,NA,2019-10-21 08:02:56,FALSE,NA,1186191120004341760,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,cuzare,0,FALSE,FALSE,NA,NA
+RT @cherrysha_v: 한치의 거짓없이 이것은 1.0배속 입니다. 처음 보고 내눈을 의심함 내가 방금 뭘본거지...??? 
+
+세상 사람들아 이사람이 바로 유아예요... 오마이걸 인간체리 유시아!!!💕💘🍒
+
+#유아 #유시아 #오마이걸 #퀸덤 h…,FALSE,0,NA,2019-10-21 08:02:43,FALSE,NA,1186191068837974016,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,M3LTYBLU3,237,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/VoEfLnUMfq,FALSE,0,NA,2019-10-21 08:00:46,FALSE,NA,1186190577349513216,NA,<a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>,pla_chic,41,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/VoEfLnUMfq,FALSE,0,NA,2019-10-21 08:00:00,FALSE,NA,1186190384105324544,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,omgeoljjang,41,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-21 07:57:26,FALSE,NA,1186189739637891072,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,I993O814,520,TRUE,FALSE,NA,NA
+RT @Color_draw_shop: 오마이걸 유아̌̈ 보정 
+
+이건 진짜 공들였다̌̈ https://t.co/DtT0WEPqWC,FALSE,0,NA,2019-10-21 07:57:22,FALSE,NA,1186189720348315648,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,DABAN5A,1,TRUE,FALSE,NA,NA
+RT @SugarjennieX: 오마이걸 유아...약간 말이 안되는 미모 https://t.co/TY7SuN4pUu,FALSE,0,NA,2019-10-21 07:51:53,FALSE,NA,1186188343085658112,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,DABAN5A,6,TRUE,FALSE,NA,NA
+RT @byul_kirby: 8.좋아하는가수
+
+아까언급햇듯이 오마이걸의 유아좋아해오...그런고로 다시한번 https://t.co/KPH4Pf5GEM,FALSE,0,NA,2019-10-21 07:51:30,FALSE,NA,1186188244762779648,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,DABAN5A,1,TRUE,FALSE,NA,NA
+RT @o_STicKER: 오마이걸 유아 유시아 시아 스꾸
+스꾸 신청은 DM 으로 주세용 😍 https://t.co/szKVbLwe7q,FALSE,0,NA,2019-10-21 07:50:57,FALSE,NA,1186188105130205184,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,DABAN5A,7,TRUE,FALSE,NA,NA
+RT @o_STicKER: 오마이걸 유아 유시아 시아 스꾸
+스꾸 신청은 DM 으로 주세용 😘 https://t.co/Uz8oj2lm3f,FALSE,0,NA,2019-10-21 07:50:23,FALSE,NA,1186187963786350593,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,DABAN5A,1,TRUE,FALSE,NA,NA
+RT @phonecamoa: 79. 오마이걸 유아
+
+너무 이뻐요 너무 너무 너무 너무 https://t.co/omF90Zt2r5,FALSE,0,NA,2019-10-21 07:50:04,FALSE,NA,1186187881921925120,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,DABAN5A,170,TRUE,FALSE,NA,NA
+RT @BomBom_426: 오마이걸 유아 누구 닮았지 했는데 체리마루 닮았어 https://t.co/xd0kIUdJGC,FALSE,0,NA,2019-10-21 07:49:41,FALSE,NA,1186187788527357952,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,DABAN5A,11,TRUE,FALSE,NA,NA
+RT @strawberryLT_: [4k] 191015 오마이걸(OH MY GIRL) 유아(YooA) - 비밀정원(Secret Garden) 직캠 [계룡디지텍고] by strawberry latte
+
+#오마이걸 #OHMYGIRL #유아 #YooA #…,FALSE,0,NA,2019-10-21 07:49:34,FALSE,NA,1186187758366154753,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,DABAN5A,21,TRUE,FALSE,NA,NA
+RT @OHMYJIOJIO: 양산 오마이걸 유아
+191011 
+
+#오마이걸 #유시아 #크리 #미라클 #OHMYGIRL https://t.co/e13lrGySuG,FALSE,0,NA,2019-10-21 07:49:14,FALSE,NA,1186187675604176897,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,DABAN5A,21,TRUE,FALSE,NA,NA
+RT @h0VL0hMNzFImt08: 오마이걸 유아 보름달 https://t.co/nUkzeJ8MvK,FALSE,0,NA,2019-10-21 07:48:43,FALSE,NA,1186187544955736064,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,DABAN5A,88,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 삽량 빛 문화 축전
+191011 오마이걸 유아8 비니5
+
+#오마이걸 #유시아 #배유빈 https://t.co/FdEsu1aS41,FALSE,0,NA,2019-10-21 07:47:36,FALSE,NA,1186187264100986881,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,pk789654,27,TRUE,FALSE,NA,NA
+RT @h0VL0hMNzFImt08: 오마이걸 유아 다섯 번째 계절 https://t.co/F69IyG9njH,FALSE,0,NA,2019-10-21 07:47:34,FALSE,NA,1186187256001728513,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,DABAN5A,966,TRUE,FALSE,NA,NA
+RT @phonecamoa: 143. 오마이걸 유아
+
+실물보고 기절하지나 말길 https://t.co/dFTQD4zRn4,FALSE,0,NA,2019-10-21 07:47:13,FALSE,NA,1186187164985389056,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,DABAN5A,130,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-21 07:38:23,FALSE,NA,1186184945401597953,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,omg_is_perfect,520,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-21 07:35:00,FALSE,NA,1186184090229170176,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,Jiwootg,520,TRUE,FALSE,NA,NA
+RT @gcdagsg: 다들 오마이걸 미미 유아가 커버한 세뇨리따 보고가셔라,, 읊조리는 미미 저음랩에 미쳐버린 유시아 음색이 쳐돌아버림ㅜ
+김미미 정말 잘생겼고 랩도 잘하고 인생의진리 https://t.co/gIkh0Jknix,FALSE,0,NA,2019-10-21 07:23:04,FALSE,NA,1186181088361607168,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,_omgirl_luv,11539,TRUE,FALSE,NA,NA
+RT @h0VL0hMNzFImt08: 오마이걸 유아 다섯 번째 계절 https://t.co/mzSzfQIuAO,FALSE,0,NA,2019-10-21 07:09:34,FALSE,NA,1186177691386404864,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,Yusiah_is_cute,1920,TRUE,FALSE,NA,NA
+RT @Love_UBin_: 오마이걸 유아 아크릴 키링 입금폼🍒
+
+#RT 추첨 두 분께 키링을 보내드립니다!
+
+🗓️ 2019.10.18 ~ 2019.10.23
+
+📌 꼭 입금 후 폼 작성 부탁드립니다:)
+📌 문의는 DM 부탁드립니다!
+📌 자세한 사항은…,FALSE,0,NA,2019-10-21 06:52:31,FALSE,NA,1186173402974842880,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,_DAD4___U,144,TRUE,FALSE,NA,NA
+RT @h0VL0hMNzFImt08: 오마이걸 유아 Little Mix-Power https://t.co/dBbCiqqwOy,FALSE,0,NA,2019-10-21 06:36:51,FALSE,NA,1186169458408206336,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,sleeping_gyurrr,83,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/VoEfLnUMfq,FALSE,0,NA,2019-10-21 05:58:56,FALSE,NA,1186159916823658502,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,softkuffs,41,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/VoEfLnUMfq,FALSE,0,NA,2019-10-21 05:56:23,FALSE,NA,1186159274197569536,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,arin_arinzz,41,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 삽량 빛 문화 축전
+191011 오마이걸 유아8 비니5
+
+#오마이걸 #유시아 #배유빈 https://t.co/FdEsu1aS41,FALSE,0,NA,2019-10-21 05:55:11,FALSE,NA,1186158972719390720,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,arin_arinzz,27,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-21 05:54:18,FALSE,NA,1186158749859364864,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,SulliHyeri,520,TRUE,FALSE,NA,NA
+RT @ronssong9: 헐 롯데월드가서 오마이걸 유아 봄 https://t.co/4mhpsQHP31,FALSE,0,NA,2019-10-21 05:42:22,FALSE,NA,1186155748327227392,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,cakecreamyy,3192,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 삽량 빛 문화 축전
+191011 오마이걸 유아8 비니5
+
+#오마이걸 #유시아 #배유빈 https://t.co/FdEsu1aS41,FALSE,0,NA,2019-10-21 05:41:48,FALSE,NA,1186155605980938240,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,Jungukyamotz_sy,27,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-21 05:41:47,FALSE,NA,1186155599995686912,NA,<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>,rlawlgy3308,520,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/VoEfLnUMfq,FALSE,0,NA,2019-10-21 05:36:07,FALSE,NA,1186154175006068736,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,Jungukyamotz_sy,41,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-21 05:33:52,FALSE,NA,1186153607986417664,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,koreaEXOKM,520,TRUE,FALSE,NA,NA
+151008 MCountdown
+↳ YooA ❀ ‹Closer› ( 오마이걸 유아 직캠 - 크로저 ) https://t.co/vLin1La7VS,FALSE,0,snowberryss,2019-10-21 05:27:49,FALSE,1186126659117699073,1186152086741733376,766846745967890433,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,snowberryss,0,FALSE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/VoEfLnUMfq,FALSE,0,NA,2019-10-21 05:06:59,FALSE,NA,1186146844797108224,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,lupiel,41,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 삽량 빛 문화 축전
+191011 오마이걸 유아8 비니5
+
+#오마이걸 #유시아 #배유빈 https://t.co/FdEsu1aS41,FALSE,0,NA,2019-10-21 05:06:51,FALSE,NA,1186146810848407552,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,lupiel,27,TRUE,FALSE,NA,NA
+RT @cyphaz__: new 를 했어야 하는구나 진짜 찐으로 제대로 캡쳐해왔음 얘드라 기억해 이 오지는 왁킹의 주인공은 오마이걸 유아야 https://t.co/bx3wSwX1yS,FALSE,0,NA,2019-10-21 04:52:18,FALSE,NA,1186143146729603072,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,exo0408_stair,37,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-21 04:51:48,FALSE,NA,1186143021542207489,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,huwa_92,520,TRUE,FALSE,NA,NA
+RT @cyphaz__: new 를 했어야 하는구나 진짜 찐으로 제대로 캡쳐해왔음 얘드라 기억해 이 오지는 왁킹의 주인공은 오마이걸 유아야 https://t.co/bx3wSwX1yS,FALSE,0,NA,2019-10-21 04:50:00,FALSE,NA,1186142569366867968,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,8821_lv,37,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-21 04:48:56,FALSE,NA,1186142300658757633,NA,<a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>,stayup_tuesday,520,TRUE,FALSE,NA,NA
+RT @cyphaz__: new 를 했어야 하는구나 진짜 찐으로 제대로 캡쳐해왔음 얘드라 기억해 이 오지는 왁킹의 주인공은 오마이걸 유아야 https://t.co/bx3wSwX1yS,FALSE,0,NA,2019-10-21 04:48:47,FALSE,NA,1186142260775149568,NA,<a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>,stayup_tuesday,37,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-21 04:44:41,FALSE,NA,1186141229412577280,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,oh_my_loveMll,520,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/VoEfLnUMfq,FALSE,0,NA,2019-10-21 04:38:43,FALSE,NA,1186139727323250688,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,bicteh_xy,41,TRUE,FALSE,NA,NA
+RT @cherrysha_v: 한치의 거짓없이 이것은 1.0배속 입니다. 처음 보고 내눈을 의심함 내가 방금 뭘본거지...??? 
+
+세상 사람들아 이사람이 바로 유아예요... 오마이걸 인간체리 유시아!!!💕💘🍒
+
+#유아 #유시아 #오마이걸 #퀸덤 h…,FALSE,0,NA,2019-10-21 04:33:46,FALSE,NA,1186138484399960065,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,dongdong_JD_,237,TRUE,FALSE,NA,NA
+RT @cmvLcitrVk2mUTe: 86. 김청하 백제예술대학교 실용댄스과 졸업(전문학사) 
+세종대 글로벌지식평생교육원 실용무용과 14학번 입학실기 상위10% (오마이걸 유아랑 동기) https://t.co/yTDRv11FMS,FALSE,0,NA,2019-10-21 04:32:06,FALSE,NA,1186138062293590018,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,dongdong_JD_,30,TRUE,FALSE,NA,NA
+RT @phonecamoa: 79. 오마이걸 유아
+
+너무 이뻐요 너무 너무 너무 너무 https://t.co/omF90Zt2r5,FALSE,0,NA,2019-10-21 04:31:04,FALSE,NA,1186137805434449920,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,dongdong_JD_,170,TRUE,FALSE,NA,NA
+RT @phonecamoa: 143. 오마이걸 유아
+
+실물보고 기절하지나 말길 https://t.co/dFTQD4zRn4,FALSE,0,NA,2019-10-21 04:30:05,FALSE,NA,1186137557676871680,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,dongdong_JD_,130,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/VoEfLnUMfq,FALSE,0,NA,2019-10-21 04:30:03,FALSE,NA,1186137547119837185,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,tteusbakkuiil,41,TRUE,FALSE,NA,NA
+RT @god_glasses_: 18. 오마이걸 유아 https://t.co/UbG4Gz13ix,FALSE,0,NA,2019-10-21 04:29:59,FALSE,NA,1186137533060567040,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,dongdong_JD_,45,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-21 04:28:26,FALSE,NA,1186137142562476032,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,dongdong_JD_,520,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/VoEfLnUMfq,FALSE,0,NA,2019-10-21 04:21:21,FALSE,NA,1186135360176177152,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,goodownloader,41,TRUE,FALSE,NA,NA
+RT @kUHV0rScQH0lh8S: 퀸덤 오마이걸 유아 왁킹 혼자 어떻게 저렇게 잘해?????? https://t.co/2BCx13rmNs,FALSE,0,NA,2019-10-21 04:14:54,FALSE,NA,1186133736179388417,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,ttt_oy,520,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 삽량 빛 문화 축전
+191011 오마이걸 유아8 비니5
+
+#오마이걸 #유시아 #배유빈 https://t.co/FdEsu1aS41,FALSE,0,NA,2019-10-21 03:57:39,FALSE,NA,1186129392646279168,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,racid_3,27,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/VoEfLnUMfq,FALSE,0,NA,2019-10-21 03:57:14,FALSE,NA,1186129290896691200,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,racid_3,41,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/VoEfLnUMfq,FALSE,0,NA,2019-10-21 03:46:28,FALSE,NA,1186126579631443969,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,how_yozmn,41,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/VoEfLnUMfq,FALSE,0,NA,2019-10-21 03:40:48,FALSE,NA,1186125155807842304,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,095uB5SMa3lutts,41,TRUE,FALSE,NA,NA
+RT @cherrysha_v: 한치의 거짓없이 이것은 1.0배속 입니다. 처음 보고 내눈을 의심함 내가 방금 뭘본거지...??? 
+
+세상 사람들아 이사람이 바로 유아예요... 오마이걸 인간체리 유시아!!!💕💘🍒
+
+#유아 #유시아 #오마이걸 #퀸덤 h…,FALSE,0,NA,2019-10-21 03:33:48,FALSE,NA,1186123390316232707,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,dlwl200963,237,TRUE,FALSE,NA,NA
+오마이걸 포카 구매합니다 사진에 없는거만 구해요‼️
+불꽃놀이:유아(1)
+컬러링북:승희(1),효정(2)💕다계절~비정💕 준미포0.2💢컬북은0.4삽니다 사진 디엠으로 부탁드려요‼️4번째사진 유아 포카 구해요‼️… https://t.co/SLvGADpqTv,FALSE,0,NA,2019-10-21 03:32:00,TRUE,NA,1186122939772502016,NA,<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>,OMG_Cherry_YOOA,0,FALSE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/VoEfLnUMfq,FALSE,0,NA,2019-10-21 03:30:31,FALSE,NA,1186122566785740800,NA,<a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>,SpiceandWolf8,41,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 삽량 빛 문화 축전
+191011 오마이걸 유아8 비니5
+
+#오마이걸 #유시아 #배유빈 https://t.co/FdEsu1aS41,FALSE,0,NA,2019-10-21 03:28:06,FALSE,NA,1186121956942405633,NA,<a href="https://mobile.twitter.com" rel="nofollow">Twitter Web App</a>,SpiceandWolf8,27,TRUE,FALSE,NA,NA
+RT @OhMyJIHOGI: 양산 191011 오마이걸 유아
+매력에빠지다
+
+#오마이걸 #유아 https://t.co/VoEfLnUMfq,FALSE,0,NA,2019-10-21 03:17:08,FALSE,NA,1186119196813324289,NA,<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>,hyforreal,41,TRUE,FALSE,NA,NA

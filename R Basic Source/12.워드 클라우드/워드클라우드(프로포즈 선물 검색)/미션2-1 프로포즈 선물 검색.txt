@@ -11,16 +11,16 @@ pro <- sapply(txt, extractNoun, USE.NAMES=F)
 head(pro) 
 mode(pro) 
 class(pro) 
-# list ÇüÅÂ·Î Ãâ·ÂµÊÀ» È®ÀÎµË´Ï´Ù
+# list í˜•íƒœë¡œ ì¶œë ¥ë¨ì„ í™•ì¸ë©ë‹ˆë‹¤
 
-# ÇÊÅÍ¸µÀ» À§ÇØ unlist ÀÛ¾÷À» ÇØ¼­ ÀúÀåÇÕ´Ï´Ù.
+# í•„í„°ë§ì„ ìœ„í•´ unlist ìž‘ì—…ì„ í•´ì„œ ì €ìž¥í•©ë‹ˆë‹¤.
 imsi <- unlist(pro) 
 pro2 <- gsub("\\.","", imsi)
 pro2 <- gsub("\\n","" ,pro2) 
 pro2 <- gsub("\\d+","", pro2) 
 
-# ÇÁ·ÎÆ÷Áîgsub.txt : ºÐ¼® ¹èÁ¦ÇÒ ´Ü¾î¸¦ ´ã°í ÀÖ´Â ÅØ½ºÆ® ÆÄÀÏ
-txt <- readLines("ÇÁ·ÎÆ÷Áîgsub.txt")
+# í”„ë¡œí¬ì¦ˆgsub.txt : ë¶„ì„ ë°°ì œí•  ë‹¨ì–´ë¥¼ ë‹´ê³  ìžˆëŠ” í…ìŠ¤íŠ¸ íŒŒì¼
+txt <- readLines("í”„ë¡œí¬ì¦ˆgsub.txt")
 txt
 
 cnt_txt <- length(txt)
@@ -30,7 +30,7 @@ for( i in 1:cnt_txt) {
 	pro2 <-gsub((txt[i]),"", pro2)
 }
 
-# µÎ ±ÛÀÚ ÀÌ»ó µÇ´Â °Í¸¸ ÇÊÅÍ¸µÇÏ±â
+# ë‘ ê¸€ìž ì´ìƒ ë˜ëŠ” ê²ƒë§Œ í•„í„°ë§í•˜ê¸°
 pro2 <- Filter(function(x) {nchar(x) >= 2}, pro2) 
 pro2 <- Filter(function(x) {nchar(x) <= 6} ,pro2) 
 
@@ -42,37 +42,37 @@ nrow(rev)
 wordcount <- table(rev)
 head(wordcount, 20)
 
-# Å« °ªÀ» ±âÁØÀ¸·Î »óÀ§ 20°³¸¸ Á¤·ÄÇÏ¿© º¸¿© ÁØ´Ù.
+# í° ê°’ì„ ê¸°ì¤€ìœ¼ë¡œ ìƒìœ„ 20ê°œë§Œ ì •ë ¬í•˜ì—¬ ë³´ì—¬ ì¤€ë‹¤.
 head(sort(wordcount, decreasing=T),20)
 mydata <- head(sort(wordcount, decreasing=T),10)
 
-bp <- barplot(mydata,  main = "ÇÁ·ÎÆ÷Áî ¼±¹° TOP 10", col = rainbow(10), 
+bp <- barplot(mydata,  main = "í”„ë¡œí¬ì¦ˆ ì„ ë¬¼ TOP 10", col = rainbow(10), 
 	cex.names=0.7, las = 2,ylim=c(0,60))
 
 pct <- round(mydata/sum(mydata) * 100 ,1)
 
-# ¿¹½Ã : 8°Ç
-text(x = bp, y = mydata * 1.05, labels = paste(mydata, "°Ç"), col = "black", cex = 0.7)
+# ì˜ˆì‹œ : 8ê±´
+text(x = bp, y = mydata * 1.05, labels = paste(mydata, "ê±´"), col = "black", cex = 0.7)
 
-# ¿¹½Ã : 4.8%
+# ì˜ˆì‹œ : 4.8%
 text(x = bp, y = mydata * 0.85, labels = paste( "(", pct, "%", ")" ), col = "black", cex = 0.7)
 
-savePlot('ÇÁ·ÎÆ÷Áî ¼±¹° top 10_1.png', type='png')
+savePlot('í”„ë¡œí¬ì¦ˆ ì„ ë¬¼ top 10_1.png', type='png')
 
-#[ Pie chart ¼Ò½º ÄÚµå ]
+#[ Pie chart ì†ŒìŠ¤ ì½”ë“œ ]
 install.packages("KoNLP") 
 library(KoNLP)  
 txt <- readLines("propose.txt") 
 pro <- sapply(txt,extractNoun,USE.NAMES=F)
-pro # list ÇüÅÂ·Î Ãâ·ÂµÊÀ» È®ÀÎµË´Ï´Ù
+pro # list í˜•íƒœë¡œ ì¶œë ¥ë¨ì„ í™•ì¸ë©ë‹ˆë‹¤
 
-imsi <- unlist(pro) # ÇÊÅÍ¸µÀ» À§ÇØ unlist ÀÛ¾÷À» ÇØ¼­ ÀúÀåÇÕ´Ï´Ù.
+imsi <- unlist(pro) # í•„í„°ë§ì„ ìœ„í•´ unlist ìž‘ì—…ì„ í•´ì„œ ì €ìž¥í•©ë‹ˆë‹¤.
 
 pro2 <- gsub("\\.","", imsi)
 pro2 <- gsub("\\n","",pro2) 
 pro2 <- gsub("\\d+","",pro2) 
 
-txt <- readLines("ÇÁ·ÎÆ÷Áîgsub.txt")
+txt <- readLines("í”„ë¡œí¬ì¦ˆgsub.txt")
 txt
 cnt_txt <- length(txt)
 cnt_txt
@@ -81,7 +81,7 @@ for( i in 1:cnt_txt) {
 	pro2 <-gsub((txt[i]),"",pro2)     
 }
 
-pro2 <- Filter(function(x) {nchar(x) >= 2} ,pro2) # µÎ ±ÛÀÚ ÀÌ»ó µÇ´Â °Í¸¸ ÇÊÅÍ¸µÇÏ±â
+pro2 <- Filter(function(x) {nchar(x) >= 2} ,pro2) # ë‘ ê¸€ìž ì´ìƒ ë˜ëŠ” ê²ƒë§Œ í•„í„°ë§í•˜ê¸°
 pro2 <- Filter(function(x) {nchar(x) <= 6} ,pro2) 
 
 head(unlist(pro2), 20)
@@ -96,5 +96,5 @@ mydata <- head(sort(wordcount, decreasing=T),10)
 pct <- round(mydata/sum(mydata) * 100 ,1)
 names(mydata)
 lab <- paste(names(mydata),"\n",pct,"%")
-pie(mydata,main="ÇÁ·ÎÆ÷Áî ¼±¹° TOP 10",col=rainbow(10), cex=0.8,labels = lab)
-savePlot('ÇÁ·ÎÆ÷Áî ¼±¹° top 10_2.png', type='png')
+pie(mydata,main="í”„ë¡œí¬ì¦ˆ ì„ ë¬¼ TOP 10",col=rainbow(10), cex=0.8,labels = lab)
+savePlot('í”„ë¡œí¬ì¦ˆ ì„ ë¬¼ top 10_2.png', type='png')
