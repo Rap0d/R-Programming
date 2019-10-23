@@ -3,7 +3,7 @@
 # 외부 통계 프로그램 파일 로드 패키지
 library(foreign)
 
-setwd('../../../R_data/191023/')
+setwd('../../R_data/191023/')
 fileName <- 'Koweps_hpc10_2015_beta1.sav'
 raw_data <- read.spss(file = fileName, to.data.frame = T)
 
