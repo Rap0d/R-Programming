@@ -26,3 +26,5 @@ dim(welfare) # 16664     7
 str(welfare)
 
 write.csv(welfare, 'welfare.csv', row.names=F, quote=F)
+
+
