@@ -16,7 +16,6 @@
 
 library(ggplot2)
 library(gmodels)
-library(RColorBrewer)
 
 # 귀무 가설 채택 여부
 ## param : Table
