@@ -3,13 +3,7 @@
 
 mymethod <- read.csv('mymethod.csv', header=TRUE)
 head(mymethod)
-
 str(mymethod)
-# 'data.frame':	63 obs. of  3 variables:
-# $ id         : int  1 2 3 4 5 6 7 8 9 10 ...
-# $ method     : int  1 1 1 1 1 1 1 1 1 1 ...
-# $ performance: int  27 5 21 99 14 23 20 9 28 15 ...
-
 dim(mymethod) # 63  3
 
 # method : 영업 역량 강화(1 : 집체 교육, 2 : 멘토링 교육)
@@ -62,39 +56,47 @@ var.test(groupa$performance, groupb$performance)
 # ratio of variances
 # 1.06479
 
+0.8494 > 0.05
 # p-value = 0.8494 > 0.05 보다 크므로 분포의 형태가 동질하다.
-# 즉, t.test()를 이용하여 모집단의 평균 값을 검정해야 한다.
+# 즉, t.test()를 이용하여 모집단의 평균 값을 검정할 수 있다.
 
 # 양측 검정
-t.test(groupa$method, groupb$performance, alter='two.sided', conf.int=TRUE, conf.level=0.95)
+t.test(groupa$performance, groupb$performance, alter='two.sided', conf.int=TRUE, conf.level=0.95)
 # Welch Two Sample t-test
-#
-# data:  groupa$method and groupb$performance
-# t = -20.26, df = 34, p-value < 2.2e-16
+# 
+# data:  groupa$performance and groupb$performance
+# t = -5.6056, df = 43.705, p-value = 1.303e-06
 # alternative hypothesis: true difference in means is not equal to 0
 # 95 percent confidence interval:
-#     -31.06012 -25.39702
+#   -17.429294  -8.209667
 # sample estimates:
-#     mean of x mean of y
-# 1.00000  29.22857
+#   mean of x mean of y 
+# 16.40909  29.22857 
 
-# p-value < 2.2e-16 < 0.05 보다 작으므로 귀무 가설을 기각한다.
+1.303e-06 > 0.05 # FALSE
+# 귀무 가설을 기각한다.
 # 영업 사원들의 실적을 향상 시키기 위한 집체 교육과 멘토링 교육 방법에는 차이가 있다.
 
-help(t.test)
+# help(t.test)
 # 단측 검정
-t.test(groupa$method, groupb$performance, alter='greater', conf.int=TRUE, conf.level=0.95)
-
+t.test(groupa$performance, groupb$performance, alter='greater', conf.int=TRUE, conf.level=0.95)
 # Welch Two Sample t-test
-#
-# data:  groupa$method and groupb$performance
-# t = -20.26, df = 34, p-value = 1
+# 
+# data:  groupa$performance and groupb$performance
+# t = -5.6056, df = 43.705, p-value = 1
 # alternative hypothesis: true difference in means is greater than 0
 # 95 percent confidence interval:
-#     -30.58456       Inf
+#   -16.66255       Inf
 # sample estimates:
-#     mean of x mean of y
-# 1.00000  29.22857
+#   mean of x mean of y 
+# 16.40909  29.22857 
+
+1 > 0.05 # 채택
 # p-value = 1 > 0.05 보다 크므로 귀무 가설을 채택한다.
 
-t.test(groupa$performance, groupb$method, alter='greater', conf.int=TRUE, conf.level=0.95)
+grouptable
+
+t.test(groupa$performance, groupb$performance, alter='less', conf.int=TRUE, conf.level=0.95)
+
+6.513e-07 > 0.05 # 기각
+# 따라서, 집체 교육의 평균이 멘토링 교육의 평균 보다 작다고 볼 수 있다.
