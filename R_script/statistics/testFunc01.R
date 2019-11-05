@@ -1,8 +1,3 @@
-# Hmisc 의 선행 패키지
-# 필요한 패키지를 로딩중입니다: lattice
-# 필요한 패키지를 로딩중입니다: survival
-# 필요한 패키지를 로딩중입니다: Formula
-# 필요한 패키지를 로딩중입니다: ggplot2
 library(Hmisc)
 library(prettyR)
 
