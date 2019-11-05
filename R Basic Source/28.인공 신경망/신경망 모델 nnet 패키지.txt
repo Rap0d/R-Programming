@@ -1,0 +1,55 @@
+https://blog.naver.com/yys2818/221048191537
+
+R프로그램
+r 프로그램 신경망 모델 nnet패키지 #신경망 in r
+2017. 7. 10. 16:25
+URL 복사
+본문 기타 기능
+r 프로그램 신경망 모델
+nnet패키지 사용
+신경망 모델 in r
+R 프로그램 어렵다.
+어지간하면 SPSS 이용하고 SPSS보다 효율적인 분석, 혹은 가능한 분석만 r로 하는 것이 낫겠다.
+
+이번엔 의료패널자료로 nnet 패키지를 사용하여 신경망모델을 만들어봤다.
+csvfile = read.csv(file="데이터1.csv", stringsAsFactors=F, header=T)
+attach(data1)
+data1 = data.frame(건강상태, 주중수면시간, 주말수면시간, 출생연도, 개인지출의료비1, 외래이용횟수, 의료이용횟수)
+library(nnet)
+library(MASS)
+library(NeuralNetTools)
+library(neuralnet)
+sas 에서 csv 파일로 데이터 추출하여 r 프로그램으로 불러오기
+attach로 데이터 붙여주었음
+그 중 7개 변수를 사용하여 만들어본 신경망 모델
+r 에서 신경망모델 분석을 위한 패키지
+data2 = sample(2, nrow(data1), replace = T, prob=c(0.5, 0.5))
+fixed <- data1[data2==1,]
+test <- data1[data2==2,]
+n수가 클 경우 통째로 돌려도 되고 반씩 나누어 돌려도 된다.
+추 후 모델 검증을 위해 절반 쪼개서 신경망모델 분석, in r
+summary(fixed)
+
+summary(test)
+
+목표변수를 건강상태로, 나머지 6개를 입력변수로 놓는다.
+은닉층의 은닉 노드의 수는 3(size=3)
+은닉 노드 수는 목표변수가 범주형일 때 각 클래스별로 1개정도 설정하여 시작하므로,
+여기선 3개만 할당
+wnnet = nnet(건강상태 ~ 주중수면시간 + 주말수면시간 + 출생연도 + 개인지출의료비1 + 외래이용횟수 + 의료이용횟수, data = fixed, size=3)
+
+summary(wnnet)
+
+신경망 모델의 결과 확인, 출력, 은닉, 입력 노드의 수와 가중치의 수 출력
+입력노드 -> 은닉노드, 은닉노드 -> 출력노드로 가는 가중치 값을 각각 보여준다.
+b=bias(상수항)의 가중치
+names(wnnet)
+
+그 외 다양한 항목 정보 확인, wts= 가중치의 집합, residuals= 잔차
+wnnet$wts
+wnnet$residuals
+
+r 프로그램으로 신경망모델 플롯을 만들어보면 다음과 같다.
+plotnet(wnnet)
+
+이상 r 프로그램을 이용한 신경망모델 분
