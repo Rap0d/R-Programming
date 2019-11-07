@@ -7,13 +7,14 @@ str(airquality)
 myformula = Temp ~ Solar.R + Wind + Ozone # 포물러 작성
  
 # 분류 모델을 생성한다(formula를 이용)
-air_ctree = ctree(formula=myformula, data=airquality)
-mode(air_ctree)
-class(air_ctree) # BinaryTree
+model = ctree(formula = myformula, data=airquality)
+mode(model)
+class(model) # BinaryTree
 
-air_ctree
+model
 
-plot(air_ctree) # y변수 연속형 : boxplot
+# y 변수가 연속형이므로 boxplot으로 그려진다.
+plot(model) 
 # 의사 결정 트리 시각화.png
 
 # <해설> 

@@ -1,0 +1,13 @@
+#
+# product_sales.csv 파일을 읽어서 visit_count, buy_count, avg_price 칼럼을
+# tot_price 칼럼을 종속 변수로 하여 다음과 같이 분류 모델를 생성하시오.
+#  
+# 변수 설명  
+# tot_price : 총구매액
+# visit_count : 방문 횟수, buy_count : 판매횟수, avg_price : 1회평균구매액
+# 
+# 학습 데이터와 검정 데이터를 7:3 비율로 셈플링하시오.
+# tot_price를 종속 변수로 하는 포뮬러를 작성하고 
+# ctree() 함수를 이용하여 분류 모델을 생성해 보세요.
+# 
+# 의사 결정 트리를 시각화하고, 중요한 변수에 대한 해석을 수행해 보세요.

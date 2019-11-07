@@ -14,29 +14,6 @@ testing = iris[-sampledata,] # 검정용 데이터
 dim(training)# [1] 105   5
 dim(testing) # [1] 45  5
 
-info_entropy <- function(x) { 
-  factor_x <- factor(x) 
-  # cat(factor_x, '\n')
-  # cat(levels(factor_x), '\n')
-  # cat(length(x), '\n')
-  entropy <- 0 
-  for(item in levels(factor_x)) {
-    prob <- sum(x == item) / length(x) 
-    entropy <- entropy - prob * log2(prob) 
-  }
-  return (entropy)
-}
-colnames(training)
-
-table( training['Sepal.Length'] )
-x <- c(0.272727273, 0.272727273, 0.272727273, 0.090909091, 0.090909091)
--sum(x*log2(x))
-
-info_entropy(unlist(training['Sepal.Length']))
-info_entropy(unlist(training['Sepal.Width']))
-info_entropy(unlist(training['Petal.Length']))
-info_entropy(unlist(training['Petal.Width']))
-
 # formula를 생성한다
 myformula = Species ~ Sepal.Length + Sepal.Width + Petal.Length + Petal.Width 
 # 학습 데이터 이용하여 분류 모델을 생성한다.
@@ -68,7 +45,13 @@ pred # y 변수의 레벨(값) 예측
 # 예측치와 실제 정답을 이용하여 빈도 분석 표를 만든다. 
 # pred는 테스트 데이터를 이용하여 도출된 결과이다.
 # test$Species는 붓꽃의 종류를 의미하는 실제 정답이다.
-table(pred, testing$Species)
+mytable <- table(pred, testing$Species)
+mytable
+bunmo <- sum(mytable)
+bunmo
+bunja <- mytable[1, 1] + mytable[2, 2] + mytable[3, 3]
+bunja
 
-accuracy <- (11 + 21 + 10) / nrow(testing) # 정확도 구하기
+# 정확도 구하기
+accuracy <- bunja / bunmo 
 round(100 * accuracy, 3)

@@ -47,5 +47,14 @@ pred # y 변수의 레벨(값) 예측
 # test$Species는 붓꽃의 종류를 의미하는 실제 정답이다.
 table(pred, testing$type)
 
-accuracy <- (1293 + 1142) / nrow(testing) # 정확도 구하기
+mytable <- table(pred, testing$type)
+mytable
+
+bunmo <- sum(mytable)
+bunmo
+bunja <- mytable[1, 1] + mytable[2, 2] 
+bunja
+
+# 정확도 구하기
+accuracy <- bunja / bunmo 
 round(100 * accuracy, 3)
