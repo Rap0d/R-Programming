@@ -1,0 +1,17 @@
+패키지
+library(devtools)
+library(nnet)
+
+데이터 : zoo_data.csv
+type 컬럼 : 
+동물의 종류를 의미하는 컬럼이다.
+
+훈련용 데이터인 zoo_data.csv 파일을 읽어 들이시오.
+type 컬럼을 코딩 변경하여 파생 컬럼 type2을 생성하세요.(예시 0 : A, 1 : B, ...등등)
+type2을 one hot encoding 하세요.
+훈련용 데이터와 테스트용 데이터로 분류하세요.
+nnet 패키지를 이용하여 신경망을 구성하세요.
+신경망 모델을 시각화하시오.
+테스트용 데이터인 zoo_testing.csv 파일을 읽어 들이시오.
+predict 함수를 이용하여 예측해 보세요.
+confusion matrix을 이용하여 정확도를 계산해 보세요.
