@@ -1,0 +1,36 @@
+library(devtools)
+library(nnet)
+library(party)
+
+setwd('R Basic Source/28.인공 신경망')
+
+# 데이터 : rent_car.csv
+data <- read.csv('rent_car.csv')
+data
+# 렌트여부, 성별, 직업, 지역, 재산
+
+# 첨부된 데이터를 이용하여 고객이 렌트 카 서비스를 잘 이용하는 지 살펴 보도록 한다.
+# 이용 고객에 대한 예측 모델을 로지 스틱 회귀로 분석을 수행하세요.
+
+idx <- sample(1:nrow(data), 0.7 * nrow(data))
+training <- data[idx,]
+testing <- data[-idx,]
+
+model <- glm(렌트여부 ~ ., data = training, family = 'binomial')
+model
+summary(model)
+
+# plot(model)
+
+# 해당 데이터를 이용하여 정확도가 어느 정도 되는지 확인해보세요.
+pred <- predict(model, newdata = testing, type = 'response')
+pred
+
+result_pred <- ifelse(pred >= 0.5, 1, 0)
+result_pred
+
+mTable <- table(result_pred, testing$렌트여부)
+
+acc <- (mTable[1,1] + mTable[2,2]) / sum(mTable)
+
+round(acc * 100, 2)
