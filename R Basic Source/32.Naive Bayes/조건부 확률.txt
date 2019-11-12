@@ -1,0 +1,51 @@
+조건부 확률(conditional probability)은 사건 B가 일어났다는 전제하에서 사건 A가 일어날 확률을 의미한다. 
+사건 A는 사건 B의 영향을 받기 때문에 이를 조건부 확률이라 한다. 
+기호로는 P(A|B)으로 표현한다.
+
+독립 사건에서의 조건부 확률
+두 사건 A, B에 대해서 두 사건의 곱사건의 확률이 각 사건의 확률을 곱한 것과 같을 때, 즉
+
+{\displaystyle P(A\cap B)=P(A)P(B)} P(A\cap B)=P(A)P(B)
+일 때 두 사건 A와 B는 서로 독립이라고 하며 다음과 같은 성질이 성립한다.
+
+{\displaystyle P(A|B)=P(A)} P(A|B)=P(A)
+{\displaystyle P(B|A)=P(B)} P(B|A)=P(B)
+결합확률
+두 가지 이상의 사상이 동시에 발생하는 확률을 결합확률이라고 하며 그 식은 다음과 같다.[1]
+
+{\displaystyle P(A|B)P(B)=P(A\cap B)} {\displaystyle P(A|B)P(B)=P(A\cap B)}
+베이즈 정리 유도
+조건부 확률
+Conditional probability.png
+
+{\displaystyle P(A|B)={\frac {P(B\cap A)}{P(B)}}} {\displaystyle P(A|B)={\frac {P(B\cap A)}{P(B)}}}
+
+
+곱셈 공식
+P(A∩B) = P(A|B)P(B) = P(B∩A) = P(B|A)P(A)
+
+A와 B가 독립시행일 경우 P(A∩B) = P(A)*P(B)
+
+
+전체 확률의 법칙
+Law of total probability.png
+
+P(B) = P(B∩A)
+
+= P(B∩A1) + P(B∩A2)
+
+= P(B|A1)P(A1) + P(B|A2)P(A2)
+
+
+베이즈 정리
+{\displaystyle P(A_{1}|B)={\frac {P(B\cap A_{1})}{P(B)}}} {\displaystyle P(A_{1}|B)={\frac {P(B\cap A_{1})}{P(B)}}}
+
+= {\displaystyle {\frac {P(B|A_{1})P(A_{1})}{P(B)}}} {\displaystyle {\frac {P(B|A_{1})P(A_{1})}{P(B)}}}
+
+= {\displaystyle {\frac {P(B|A_{1})P(A_{1})}{P(B|A_{1})P(A_{1})+P(B|A_{2})P(A_{2})}}} {\displaystyle {\frac {P(B|A_{1})P(A_{1})}{P(B|A_{1})P(A_{1})+P(B|A_{2})P(A_{2})}}}
+
+각주
+ 《수리통계학 입문》 1판. 1995년 3월 10일. 15쪽.
+함께 보기
+베이즈 정리
+몬티 홀 문제
