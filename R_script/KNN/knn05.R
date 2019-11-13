@@ -72,7 +72,7 @@ for(idx in c(5, 11, 15, 21, 27)) {
   kSize_1 <- idx
   knnPred <- knn(train = dataTrain, test = dataTest, cl = dataTrainLabels, k = kSize_1, prob = T)
   CrossTable(x = dataTestLabels, y = knnPred, prop.chisq = F)
-  mTable <- table(knnPred, trainingRow)
+  mTable <- table(knnPred, dataTestLabels)
   accuracy <- (mTable[1,1] + mTable[2,2]) / sum(mTable)
   accuracy <- round(accuracy, 2)
   print(accuracy)
