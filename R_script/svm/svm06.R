@@ -7,7 +7,7 @@ summary(data)
 dim(data)
 colnames(data)
 
-idx <- sample(1:nrow(data), 0.7 * nrow(data))
+idx <- sample(1:nrow(data), 0.1 * nrow(data))
 training <- data[idx, ]
 testing <- data[-idx, ]
 
