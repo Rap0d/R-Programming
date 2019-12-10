@@ -39,7 +39,7 @@ summary(testing_nor)
 # 형식) neuralnet(formula, data, hidden) 
 model_net = 
     neuralnet(Species2 ~ Sepal.Length+Sepal.Width+Petal.Length+ Petal.Width, 
-                data=training_nor, hidden = 1)
+                data=training_nor, hidden = rep(4,4))
 class(model_net)
 plot(model_net) # 인공 신경망 시각화.png 
 

@@ -1,3 +1,6 @@
+library(nnet)
+library(devtools)
+source_url('https://gist.githubusercontent.com/fawda123/7471137/raw/466c1474d0a505ff044412703516c34f1a4684a5/nnet_plot_update.r')
 # 데이터 셋 준비
 iris
 set.seed(1234)
@@ -16,8 +19,9 @@ model_net_iris1 = nnet(Species ~ ., training, size = 1) # 은닉층 1개
 # options were - softmax modelling
 # softmax modelling은 다항 분류를 의미한다.
 
-model_net_iris3 = nnet(Species ~ ., training, size = 3) # 은닉층 3개
+model_net_iris3 = nnet(Species ~ ., training, size = 3 # 은닉층 3개
 model_net_iris3 
+plot.nnet(model_net_iris3)
 # a 4-3-3 network with 27 weights
 # inputs: Sepal.Length Sepal.Width Petal.Length Petal.Width 
 # output(s): Species 
@@ -53,3 +57,4 @@ table(predict(model_net_iris3, testing, type = "class"), testing$Species)
 # versicolor    0       20        0
 # virginica     0       1         13
 (11 + 20 + 13) / nrow(testing)
+
