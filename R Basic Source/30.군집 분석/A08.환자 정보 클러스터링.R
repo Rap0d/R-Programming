@@ -1,6 +1,6 @@
-patient_info <- read.csv("patient_info.csv" , stringsAsFactors = F , header = T)
+patient_info <- read.csv("R Basic Source/30.군집 분석/patient_info.csv" , stringsAsFactors = F , header = T)
 str(patient_info)
-
+par(family = 'D2Coding')
 #계층형군집 
 library(cluster)
 hcl <- hclust(dist(patient_info)^2 , method = "single")
@@ -34,3 +34,4 @@ kms <- kmeans(patient_info , elbow)
 kms
 
 plot(patient_info , col = kms$cluster)
+

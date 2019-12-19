@@ -1,6 +1,6 @@
 # 중1학년 신체검사 결과 군집 분석
 #A 중학교에서 측정한 중 1학생들의 신체 검사 결과를 이용하여 군집 분석을 해보도록 한다.
-body = read.csv("bodycheck.csv", header=TRUE)
+body = read.csv("R Basic Source/30.군집 분석/bodycheck.csv", header=TRUE)
 head(body)
 
 # 학생이 총 15명이다.

@@ -1,6 +1,6 @@
 # 참조 : cluster 패키지는 recommend 패키지라 인스톨하지 않아도 된다.
 
-result <- read.csv('myRFM.csv', header=T)
+result <- read.csv('R Basic Source/30.군집 분석/myRFM.csv', header=T)
 # install.packages('cluster')
 library(cluster)
 
@@ -62,7 +62,7 @@ plot(result)
 # 상관 계수 그래프.png
 
 # 상관 계수를 색상으로 시각화
-# install.packages("corrgram")   
+# install.packages("corrgram")
 library(corrgram)
 corrgram(result, upper.panel=panel.conf) # 수치(상관계수) 추가(위쪽)
 # corrgram_upper.png
@@ -77,3 +77,4 @@ plot( result[c('Frequency', 'Monetary')], main='[거래 빈도 수]와 [구매 �
 # 군집의 구분을 용이하게 하기 위해 각군의 중앙에 별도의 기호를 표시한다.
 points( kmeans3$centers[, c('Frequency', 'Monetary')], col=1:3, pch=8, cex=2, lwd=3)
 # 택배 서비스 군집 분석.png
+
